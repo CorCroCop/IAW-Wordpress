@@ -1,0 +1,2806 @@
+# Translation of Plugins - Customer Reviews for WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Customer Reviews for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-26 09:49:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Customer Reviews for WooCommerce - Stable (latest release)\n"
+
+#. translators: please keep '%1s' and '%2s' as is
+#: class-ivole-reminders-list-table.php:187
+msgid "Please log in to your account on %1sCusRev website%2s to view and manage the reminders."
+msgstr "Por favor, accede a tu cuenta en la %1sweb de CusRev%2s para ver y gestionar los recordatorios."
+
+#: class-ivole-settings-review-reminder.php:185
+msgid "German (Formal)"
+msgstr "Alemán (formal)"
+
+#: class-ivole-settings-review-reminder.php:189
+msgid "Icelandic"
+msgstr "Islandés"
+
+#: class-cr-ajax-reviews.php:419
+msgid "Search"
+msgstr "Buscar"
+
+#: class-cr-ajax-reviews.php:412
+msgid "Search customer reviews"
+msgstr "Buscar valoraciones de clientes"
+
+#: class-ivole-settings-trust-badges.php:215
+msgid "Bottom right"
+msgstr "Inferior derecha"
+
+#: class-ivole-settings-trust-badges.php:216
+msgid "Bottom left"
+msgstr "Inferior izquierda"
+
+#: class-ivole-structured-data.php:117 class-ivole-structured-data.php:142
+msgid "N/A"
+msgstr "N/A"
+
+#: class-cr-product-feed-identifiers.php:131
+msgid "Structured Data"
+msgstr "Datos estructurados"
+
+#: class-ivole-reviews.php:1085
+msgid "Customer Images"
+msgstr "Imágenes de clientes"
+
+#: templates/cr-ajax-product-reviews.php:75 templates/reviews-grid.php:99
+#: templates/qna-tab.php:36 js/blocks.js:519
+msgid "Show more"
+msgstr "Mostrar más"
+
+#: class-ivole-reviews.php:1037
+msgid "Most Recent"
+msgstr "Más recientes"
+
+#: class-ivole-reviews.php:1040
+msgid "Most Helpful"
+msgstr "Más útiles"
+
+#: class-ivole-settings-review-extensions.php:272
+msgid "Review Form"
+msgstr "Formulario de valoraciones"
+
+#: class-ivole-settings-review-reminder.php:183
+msgid "Georgian"
+msgstr "Georgiano"
+
+#: class-ivole-settings-review-reminder.php:325
+msgid "Enable for Guests"
+msgstr "Activar para invitados"
+
+#. Author URI of the plugin
+msgid "https://www.cusrev.com/business/"
+msgstr "https://www.cusrev.com/business/"
+
+#. Author of the plugin
+msgid "Customer Reviews"
+msgstr "Reseñas de clientes"
+
+#: class-ivole-structured-data.php:149
+msgid "MPN: "
+msgstr "MPN:"
+
+#: class-cr-product-feed-identifiers.php:298
+#: class-cr-product-feed-reviews.php:301
+msgid "Product Tag"
+msgstr "Etiqueta del producto"
+
+#: class-cr-product-feed-status.php:122
+msgid "Status"
+msgstr "Estado"
+
+#: class-cr-product-feed-status.php:98
+msgid "Product Feed URL"
+msgstr "URL del feed del producto"
+
+#: cr-tags-page.php:272 class-cr-product-feed-status.php:41
+#: class-cr-product-feed-status.php:72
+msgid "Overview"
+msgstr "Vista general"
+
+#: class-ivole-structured-data.php:159
+msgid "Brand: "
+msgstr "Marca:"
+
+#: class-cr-product-feed-categories.php:221
+msgid "Exclude"
+msgstr "Excluir"
+
+#: class-cr-product-feed-categories.php:215
+msgid "Product Count"
+msgstr "Número de productos"
+
+#: class-cr-product-feed-categories.php:209
+msgid "Product Category"
+msgstr "Categoría de producto"
+
+#: class-cr-product-fields.php:63 class-cr-product-fields.php:138
+msgid "The brand of the product."
+msgstr "La marca del producto"
+
+#: class-ivole-manual.php:220
+msgid "WP Cron error"
+msgstr "Error WP Cron"
+
+#: class-ivole-structured-data.php:124
+msgid "GTIN: "
+msgstr "GTIN: "
+
+#: class-cr-product-feed-categories.php:227
+msgid "Google Shopping Category"
+msgstr "Categoría de Google Shopping"
+
+#: class-cr-product-feed-identifiers.php:296
+#: class-cr-product-feed-reviews.php:299
+msgid "Product Brand"
+msgstr "Marca del producto"
+
+#: class-cr-product-feed-identifiers.php:295
+#: class-cr-product-feed-reviews.php:298
+msgid "Product MPN"
+msgstr "MPN del producto"
+
+#: class-cr-product-feed-identifiers.php:294
+#: class-cr-product-feed-reviews.php:297
+msgid "Product GTIN"
+msgstr "GTIN del producto"
+
+#: class-ivole-settings-review-reminder.php:210
+msgid "Ukrainian"
+msgstr "Ucraniano"
+
+#: class-ivole-settings-review-reminder.php:200
+msgid "Portuguese (Brazil)"
+msgstr "Portugués (Brasil)"
+
+#: class-ivole-settings-review-reminder.php:180
+msgid "Persian"
+msgstr "Persa"
+
+#: class-ivole-admin-menu-diagnostics.php:160
+#: class-ivole-admin-menu-diagnostics.php:169
+#: class-ivole-admin-menu-diagnostics.php:178
+msgid "This warning can be safely ignored, if your theme does not use the offical WooCommerce libraries."
+msgstr "Esta advertencia puede ser ignorada con seguridad, si tu tema no utiliza las bibliotecas oficiales de WooCommerce."
+
+#: class-cr-product-feed-identifiers.php:122
+msgid "Brand (Static)"
+msgstr "Marca (Estática)"
+
+#: class-cr-product-feed-identifiers.php:124
+msgid "Specify a default brand for all products in your store. If this field is non-empty, the plugin will use this brand for all products in XML feeds for Google Shopping."
+msgstr "Especifica una marca por defecto para todos los productos de tu tienda. Si este campo no está vacío, el plugin usará esta marca para todos los productos en el feed XML para Google Shopping."
+
+#. translators: %s opening and closing link tags respectively
+#: templates/ivole-single-product-reviews.php:130
+#: templates/cr-ajax-product-reviews.php:143
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "Debes estar %1$sconectado%2$s para dejar una valoración."
+
+#: class-ivole-settings-review-reminder.php:341
+msgid "WordPress Cron"
+msgstr "Cron de WordPress"
+
+#: class-ivole-settings-review-reminder.php:342
+msgid "CR Cron"
+msgstr "Cron de WP"
+
+#: class-ivole-settings-review-reminder.php:334
+msgid "Define which scheduler the plugin will use to schedule automatic review reminders. The default option is to use WordPress Cron (WP-Cron) for scheduling automatic reminders. If your hosting limits WordPress Cron functionality and automatic reminders are not sent as expected, try CR Cron. CR Cron is an external service that requires a license key (free or pro)."
+msgstr "Define que programador usará el pugin para programar los recordatorios automáticos de valoraciones. La opción por defecto es usar el programador de tareas de WordPress (WP-Cron) para programar los recordatorios automáticos. Si tu alojamiento limita la funcionalidad del programador de tareas de WordPress y no se envían los recordatorios como se espera, prueba con CR Cron. CR Cron es un servicio que necesita una clave de licencia (gratis o pro)."
+
+#: class-ivole-settings-review-reminder.php:332
+msgid "Reminders Scheduler"
+msgstr "Programador de recordatorios"
+
+#: class-ivole-manual.php:203
+msgid "%d reminder(s) sent"
+msgstr "%d recordatorio(s) enviado(s)"
+
+#: class-ivole-email.php:483
+msgid "Error: the customer has already reviewed all products from this order."
+msgstr "Error: El cliente ya revisó todos los productos de este pedido. "
+
+#: class-ivole-manual.php:185 class-ivole-manual.php:194
+#: class-ivole-manual.php:206
+msgid "No customer consent received"
+msgstr "No se recibió el consentimiento del cliente."
+
+#: class-ivole-manual.php:146
+msgid "Error: the customer's email is invalid."
+msgstr "Error: el correo electrónico del cliente no es válido."
+
+#: class-ivole-manual.php:40
+msgid "Sync the order with CR Cron"
+msgstr "Sincroniza el pedido con CR Cron"
+
+#: class-ivole-manual.php:178
+msgid "A review reminder was scheduled via CR Cron"
+msgstr "Se ha programado un recordatorio de valoración mediante CR Cron"
+
+#: class-ivole-manual.php:132
+msgid "Successfully synced with CR Cron"
+msgstr "Sincronizado correctamente con CR Cron"
+
+#: class-cr-checkout.php:18
+msgid "Check here to receive an invitation from CR (an independent third-party organization) to review your order"
+msgstr "Marca aquí para recibir una invitación de CR (una organización independiente de terceros) para valorar tu pedido"
+
+#: class-cr-checkout.php:16
+msgid "Check here to receive an invitation from CR (an independent third-party organization) to review your order. Once the review is published, you will receive a coupon to use for your next purchase."
+msgstr "Marque aquí para recibir una invitación de CR (una organizacion independiente de terceros) para valorar tu pedido. Una vez que se publique tu valoración, recibirás un cupón para utilizarlo en tu siguiente compra. "
+
+#: class-ivole-sender.php:101 class-ivole-sender.php:103
+msgid "CR: a review reminder could not be scheduled via CR Cron. Error %d."
+msgstr "CR: no se pudo programar un recordatorio de valoración mediante el cron de CR. Error %d."
+
+#: class-ivole-sender.php:98
+msgid "CR: a review reminder was scheduled via CR Cron. Please log in to your account on <a href=\"https://www.cusrev.com/login.html\" target=\"_blank\" rel=\"noopener noreferrer\">CR website</a> to view and manage the reminders."
+msgstr "CR: se programó un recordatorio de valoración mediante el cron de CR. Por favor, accede a tu cuenta en la <a href=\"https://www.cusrev.com/login.html\" target=\"_blank\" rel=\"noopener noreferrer\">web de CR</a> para ver y gestionar los recordatorios."
+
+#: class-ivole-settings-review-reminder.php:360
+msgid "Customer Consent"
+msgstr "Consentimiento del cliente"
+
+#: class-ivole-settings-review-reminder.php:361
+msgid "If this option is enabled, customers will be asked to tick a checkbox on the checkout page to indicate that they would like to receive an invitation to review their order."
+msgstr "Si esta opción está activada, se le pedirá a los clientes marcar una casilla de verificación en la página de pago para indicar que les gustaría recibir una invitación para valorar su perdido."
+
+#: class-ivole-settings-review-reminder.php:946
+msgid "<strong>CR Cron could not be enabled because no license key was entered. A license key (free or pro) is required to use CR Cron.</strong>"
+msgstr "<strong>No se pudo activar el cron de CR porque no se introdujo la clave de licencia. Es obligatoria una clave de licencia (gratuita o profesional) para usar el cron de CR.</strong>"
+
+#: templates/qna-list.php:42 templates/qna-list.php:43
+#: templates/review-meta.php:43
+msgid "store manager"
+msgstr "gerente de tienda"
+
+#: templates/review-meta.php:33
+msgid "Your review is awaiting approval"
+msgstr "Tu valoración está pendiente de aprobación"
+
+#: class-ivole-admin-menu-reviews.php:459
+msgid "Answers to Custom Questions"
+msgstr "Respuestas a las preguntas de los clientes"
+
+#: class-ivole-settings-review-reminder.php:174
+msgid "Croatian"
+msgstr "Croata "
+
+#: class-ivole-settings-review-reminder.php:434
+msgid "Email for Notifications"
+msgstr "Correo electrónico para avisos "
+
+#: class-ivole-settings-review-reminder.php:436
+msgid "Specify an email to receive notifications about new reviews and errors. It is recommended to provide an email address that you regularly check."
+msgstr "Especifica un correo electrónico para recibir los avisos acerca de valoraciones y errores nuevas. Se recomienda una dirección de correo electrónico que revises regularmente."
+
+#: class-ivole-settings-review-reminder.php:204
+msgid "Slovak"
+msgstr "Eslovaco"
+
+#. translators: 1: The HTTP response code. 2: The error message returned.
+#: includes/import-export/class-ivole-admin-menu-import.php:444
+msgid "Error: [%1$s] %2$s"
+msgstr "Error: [%1$s] %2$s"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:465
+msgid "The loopback request to your site completed successfully."
+msgstr "La solicitud de loopback a tu sitio se completo correctamente."
+
+#: includes/import-export/class-ivole-admin-menu-import.php:441
+msgid "The loopback request to your site failed. This means that import of reviews will not be working as expected. If you would like to use the import utility, please contact your hosting provider and request them to enable loopback requests for your site."
+msgstr "La solicitud del bucle a tu sitio falló. Esto significa que la importación de las valoraciones no funcionará como es de esperar. Si quiere utilizar la utilidad de importación, por favor contacta con tu proveedor de alojamiento y solicítales que permitan las solicitudes de bucle de respuesta para tu sitio. "
+
+#. translators: %d: The HTTP response code returned.
+#: includes/import-export/class-ivole-admin-menu-import.php:457
+msgid "The loopback request returned an unexpected http status code, %d. This means that import of reviews will not be working as expected. If you would like to use the import utility, please contact your hosting provider and request them to enable loopback requests for your site."
+msgstr "La solicitud del bucle de respuesta devolvió un código de estado http inesperado, %d. Esto significa que la importación de las valoraciones no funcionará como es de esperar. Si quieres usar utilidad de importación, por favor contacta con tu proveedor de alojamiento y solicítales que permitan las solicitudes de bucle de respuesta para tu sitio. "
+
+#: class-ivole-email-coupon.php:217 class-ivole-email-coupon.php:238
+#: class-ivole-email.php:372 class-ivole-email.php:403
+msgid "Doe"
+msgstr "Doe"
+
+#: includes/import-export/class-ivole-background-importer.php:87
+msgid "Line %1$d >> Error: product_id must be a positive number or '-1' for shop reviews."
+msgstr "Línea %1$d >> Error: el product_id debe ser un número positivo o '-1' para las valoraciones de la tienda."
+
+#: includes/import-export/class-ivole-admin-menu-import.php:242
+msgid "This is a shop review. Note that the product_id is -1. Customer service is good!"
+msgstr "Esta es una valoración de una tienda. Observa que que el product_id es -1. ¡El servicio al cliente es bueno!"
+
+#: class-ivole-settings-review-discount.php:283
+msgid "Adjust template of the email that will be sent to customers. If you enable <b>advanced</b> email templates in your account on <a href=\"https://www.cusrev.com/login.html\" target=\"_blank\" rel=\"noopener noreferrer\">CR website</a>, they will <b>override</b> the email template below."
+msgstr "Ajusta la plantilla del correo electrónico que se enviará a los clientes. Si activas las plantillas <b>avanzadas</b> de correo electrónico en tu cuenta en la <a href=\"https://www.cusrev.com/login.html\" target=\"_blank\" rel=\"noopener noreferrer\">web de CR</a>,<b>invalidarán</b> la plantilla del correo electrónico siguiente. "
+
+#: class-ivole-settings-review-reminder.php:141
+msgid "'Form Body' field cannot be empty"
+msgstr "El campo 'cuerpo del formulario' no puede estar vacío"
+
+#: class-ivole-settings-review-reminder.php:134
+msgid "'Form Header' field cannot be empty"
+msgstr "El campo 'cabecera del formulario' no puede estar vacío"
+
+#: class-ivole-email.php:481
+msgid "View additional information"
+msgstr "Ver información adicional "
+
+#: class-ivole-email.php:481
+msgid "Error: only one review invitation per order is allowed."
+msgstr "Error: solo se permite una invitación de valoración por pedido."
+
+#: class-ivole-settings-review-reminder.php:581 js/blocks.js:776
+#: js/blocks.js:1153
+msgid "Stars"
+msgstr "Estrellas "
+
+#: class-ivole-settings-review-reminder.php:611
+msgid "Form Color 3"
+msgstr "Color del formulario 3"
+
+#: class-ivole-settings-review-reminder.php:591
+msgid "Automatic geolocation on review forms."
+msgstr "Geolocalización automática en los formularios de las valoraciones. "
+
+#: class-ivole-settings-review-reminder.php:586
+msgid "Geolocation"
+msgstr "Gelocalización"
+
+#: class-ivole-license.php:58
+msgid "Expired: Professional Version"
+msgstr "Caducada: Versión profesional"
+
+#: class-ivole-settings-review-extensions.php:76
+msgid "The plugin is based on the standard WooCommerce reviews functionality. Here, you can configure various extensions for standard WooCommerce reviews."
+msgstr "El plugin se basa en la funcionalidad de las valoraciones estándar de WooCommerce. Aquí puedes configurar varias extensiones para las valoraciones estándar de WooCommerce. "
+
+#: class-ivole-settings-review-reminder.php:615
+msgid "Color of control elements (buttons, rating bars)."
+msgstr "Color de los elementos del control (botones, barras de valoración)."
+
+#: class-ivole-settings-review-reminder.php:590
+msgid "Enable geolocation on aggregated review forms. Customers will have an option to indicate where they are from. For example, \"England, United Kingdom\"."
+msgstr "Activa la geolocalización en los formularios de las valoraciones agregadas. Los clientes tendrán la opción de indicar de donde son. Por ejemplo, «Inglaterra, Reino Unido».  "
+
+#: class-ivole-settings-review-reminder.php:580
+msgid "Smiley and frowny faces"
+msgstr "Caritas sonrientes y con el ceño fruncido"
+
+#: class-ivole-settings-review-reminder.php:578
+msgid "Visual style of rating bars on review forms."
+msgstr "Estilo visual de las barras de valoración en los formularios de las valoraciones."
+
+#: class-ivole-settings-review-reminder.php:574
+msgid "Rating Bar"
+msgstr "Barra de valoración"
+
+#: class-ivole-settings-review-reminder.php:829
+#: class-ivole-settings-review-reminder.php:868 class-ivole-license.php:53
+msgid "Active: Professional Version"
+msgstr "Activa: Versión profesional"
+
+#: class-ivole-settings-license.php:62
+msgid "Types of License Keys"
+msgstr "Tipos de claves de licencia"
+
+#: class-ivole-settings-review-discount.php:85
+msgid "Customize CusRev settings for sending discount coupons to customers who left reviews. By enabling and using this feature, you agree to <a href=\"https://www.cusrev.com/terms.html\" target=\"_blank\">terms and conditions</a>."
+msgstr "Personaliza los ajustes de CusRev para enviar cupones de descuento a los clientes que han dejado valoraciones. Al activar y usar esta característica, aceptas los <a href=\"https://www.cusrev.com/terms.html\" target=\"_blank\">términos y condiciones</a>."
+
+#: class-cr-product-feed-reviews.php:100
+msgid "Encode special characters in the XML feed"
+msgstr "Codificar los caracteres especiales en el canal XML"
+
+#: class-cr-product-feed-reviews.php:99
+msgid "Encode Special Characters"
+msgstr "Codificar los caracteres especiales "
+
+#: class-ivole-settings-review-reminder.php:194
+msgid "Latvian"
+msgstr "Letón"
+
+#: class-cr-product-feed-reviews.php:93
+msgid "Exclude product IDs for parents of variable products from the XML feed"
+msgstr "Excluye los IDs para los controladores de los productos variables del los feed XML"
+
+#: class-cr-product-feed-reviews.php:92
+msgid "Exclude Parent Product"
+msgstr "Excluye el producto padre"
+
+#: class-ivole-settings-review-reminder.php:427
+msgid "Add a Reply-To address for emails with reminders. If customers decide to reply to automatic emails, their replies will be sent to this address. It is recommended to use an email address associated with the domain of your site. If you use a free email address (e.g., Gmail or Hotmail), it will increase probability of emails being marked as SPAM."
+msgstr "Añade una dirección de respuesta para los correos electrónicos con recordatorios.Si los clientes deciden responder a los correos electrónicos automáticos, sus respuestas se enviarán a esta dirección. Se recomienda usar una dirección de correo electrónico asociada con el dominio de tu sitio. Si usas un dirección de correo electrónico gratuita (ej., Gmail o Hotmail), aumentará la probabilidad de que los correos electrónicos sean marcados como spam."
+
+#: class-ivole-settings-review-reminder.php:196
+msgid "Macedonian"
+msgstr "Macedonio"
+
+#: class-ivole-settings-review-reminder.php:186
+msgid "Greek"
+msgstr "Griego"
+
+#: class-ivole-manual.php:218
+msgid "A reminder is scheduled for "
+msgstr "Se programó un recordatorio para "
+
+#: class-ivole-manual.php:171
+msgid "%d review(s) received"
+msgstr "%d valoración(es) recibida(s)"
+
+#: class-ivole-reviews-list-table.php:716
+msgid "A verified copy of this reply was published on %1$s. If this reply is deleted, the verified copy will remain published. The page with verified copies of reviews and replies to reviews for your shop on CusRev portal can be completely hidden by disabling Trust Badges in the %2$s."
+msgstr "Se publicó una copia verificada de esta respuesta en %1$s. Si se elimina esta respuesta, la copia verificada permanecerá publicada. La página con copias verificadas de las valoraciones y las respuestas a las valoraciones para tu tienda en el portal de CR se pueden ocultar completamente al desactivar las acreditaciones de confianza en el %2$s."
+
+#: class-ivole-reviews-list-table.php:682
+#: class-ivole-reviews-list-table.php:699
+msgid "This reply was originally posted on %1$s. If this copy of the reply is deleted, the original on CusRev portal will remain published. If this copy is edited, the original reply will NOT be updated. Only the customer can edit the original reply on CusRev portal. The page with verified copies of reviews and replies to reviews for your shop on CusRev portal can be completely hidden by disabling Trust Badges in the %2$s."
+msgstr "Esta respuesta se publicó originalmente en %1$s. Si se elimina esta copia de la respuesta, la original en el portal de CR permanecerá publicada. Si se edita esta copia, la respuesta original no se actualizará. Solo el cliente puede editar la respuesta original para tu tienda en el portal de CR. La página con copias de valoraciones verificadas y respuestas a las valoraciones para tu tienda en el portal de CR se puede ocultar completamente al desactivar las acreditaciones de confianza en el %2$s."
+
+#: class-ivole-admin-menu-reviews.php:487
+#: class-ivole-reviews-list-table.php:667
+msgid "A verified copy of this reply was published on %s"
+msgstr "Se publicó una copia verificada de esta respuesta el %s"
+
+#: class-ivole-reviews-list-table.php:665
+msgid "A verified copy of this reply was published on %1$s. If this reply is deleted, the verified copy will remain published. If this reply is edited, the verified copy will be updated. The page with verified copies of reviews and replies to reviews for your shop on CusRev portal can be completely hidden by disabling Trust Badges in the %2$s."
+msgstr "Se publicó una copia verificada de esta respuesta en %1$s. Si se elimina esta respuesta, la copia verificada permanecerá publicada. Si se edita esta respuesta, la copia verificada se actualizará. La página con copias verificadas de las valoraciones y las respuestas a las valoraciones para tu tienda en el portal de CR se pueden ocultar completamente al desactivar las acreditaciones de confianza en el %2$s."
+
+#: class-ivole-endpoint-replies.php:137 class-ivole-endpoint-replies.php:155
+msgid "This reply was originally posted on CR portal"
+msgstr "Esta respuesta de publicó originalmente en el portal CR"
+
+#: class-ivole-admin-menu-reviews.php:319
+msgid "disabled"
+msgstr "desactivado"
+
+#: class-ivole-admin-menu-reviews.php:483
+#: class-ivole-admin-menu-reviews.php:485
+#: class-ivole-admin-menu-reviews.php:492
+#: class-ivole-admin-menu-reviews.php:501
+#: class-ivole-admin-menu-reviews.php:510
+msgid "CR portal"
+msgstr "Portal CR"
+
+#: class-ivole-admin-menu-reviews.php:314
+msgid "plugin's settings"
+msgstr "ajustes del plugin"
+
+#: class-ivole-admin-menu-reviews.php:505
+msgid "This reply was originally posted on %s. This copy of the reply was modified and might be different from the original published on CR portal."
+msgstr "Esta respuesta se publicó originalmente en %s. Esta copia de la respuesta se modificó y puede ser diferente a la original publicada en el portal de CR. "
+
+#: class-ivole-admin-menu-reviews.php:514
+#: class-ivole-reviews-list-table.php:718
+msgid "A verified copy published on %s could not be updated because it is not the last reply for the review. The verified copy might be different from this reply."
+msgstr "Una copia verificada publicada en %s no se pudo actualizar porque no es la última respuesta para la valoración. La copia verificada podría ser diferente a esta respuesta."
+
+#: class-ivole-admin-menu-reviews.php:496
+msgid "This reply was originally posted on %s. If this copy of the reply is edited, the original reply will NOT be updated. Only the customer can edit the original reply on CR portal."
+msgstr "Esta respuesta se publicó originalmente en %s. Si esta copia de la respuesta se edita, la respuesta original no se actualizará. Solo el cliente puede editar la respuesta original en el portal CR."
+
+#: class-ivole-admin-menu-reviews.php:313
+msgid "CusRev (Customer Reviews) portal"
+msgstr "Portal de CusRev (Valoraciones de los clientes)"
+
+#: class-ivole-admin-menu-reviews.php:311
+msgid "Publish a copy of your reply to CusRev (Customer Reviews) portal"
+msgstr "Publicar una copia de tu respuesta en el portal de CusRev (Valoraciones de los clientes)"
+
+#: class-ivole-admin-menu-reviews.php:315
+msgid "A copy of this reply will not be published on %1$s because no license key was entered in the %2$s. A license key (free or professional) is used as a secret token for additional security when communicating with CusRev service."
+msgstr "No se publicará una copia de esta respuesta en %1$s porque no se ha introducido ninguna clave de licencia en %2$s. Se usa una clave de licencia (gratuita o profesional) como un token secreto para seguridad adicional cuando te comunicas con el servicio de CusRev. "
+
+#: class-ivole-admin-menu-reviews.php:546
+msgid "This reply was originally posted on CR portal. This copy of the reply was modified and might be different from the original reply published on CusRev portal."
+msgstr "Esta respuesta se ha publicado originalmente en el portal de CR. Esta copia de la respuesta se ha modificado y podría ser diferente a la respuesta original publicada en el portal de CusRev. "
+
+#: class-ivole-admin-menu-reviews.php:320
+msgid "A copy of this reply will not be published on CusRev (Customer Reviews) portal because Verified Reviews Page option is %s."
+msgstr "No se publicará una copia de esta respuesta en el portal CusRev (Valoraciones de los clientes) porque la opción de la página de valoraciones verificadas está %s. "
+
+#: class-ivole-manual.php:140
+msgid "Error: the order does not contain any products for which review reminders are enabled in the settings."
+msgstr "Error: el pedido no contiene ningunos productos para los cuales los recordatorios de valoraciones son activados en los ajustes. "
+
+#: class-ivole-settings-review-reminder.php:392
+msgid "Enable this checkbox to exclude free products from review invitations."
+msgstr "Activa esta casilla de verificación para excluir los productos gratuitos de las invitaciones de las valoraciones. "
+
+#: class-ivole-settings-review-reminder.php:391
+msgid "Exclude Free Products"
+msgstr "Excluir productos gratuitos "
+
+#: class-ivole-settings-review-reminder.php:254
+msgid "Enable the service of automatic follow-up emails with an invitation to submit a review. I confirm that I have updated terms and conditions on this website to inform customers about review invitations."
+msgstr "Activa el servicio de correos electrónicos de seguimientos automáticos con una invitación para enviar una valoración. Yo confirmo que he actualizado los términos y condiciones en esta web para informar a los clientes acerca de las invitaciones de las valoraciones.  "
+
+#: class-cr-product-feed-categories.php:146 js/blocks.js:267 js/blocks.js:643
+#: js/blocks.js:1046
+msgid "Product Categories"
+msgstr "Categorías de productos"
+
+#: class-ivole-settings-trust-badges.php:204 js/blocks.js:96
+msgid "Dark"
+msgstr "Oscuro"
+
+#: class-ivole-settings-trust-badges.php:203 js/blocks.js:92
+msgid "Light"
+msgstr "Claro"
+
+#: class-ivole-trust-badge.php:78 class-ivole-trust-badge.php:83
+#: class-ivole-trust-badge.php:88 class-ivole-trust-badge.php:93
+#: class-ivole-trust-badge.php:96 class-ivole-trust-badge.php:203
+#: js/blocks.js:23
+msgid "Trust Badge"
+msgstr "Acreditación de confianza"
+
+#: templates/reviews-grid.php:29 templates/reviews-slider.php:22
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "hace %s"
+
+#: class-ivole-reviews-grid.php:308 class-cr-reviews-slider.php:264
+msgid "No reviews to show"
+msgstr "No hay valoraciones para mostrar "
+
+#: class-ivole-settings-review-extensions.php:226
+msgid "Verified Owner"
+msgstr "Propietario verificado"
+
+#: class-ivole-replies.php:105 class-ivole-replies.php:118
+msgid "Unknown error"
+msgstr "Error desconocido"
+
+#: class-ivole-replies.php:125
+msgid "ID of the current user is not set"
+msgstr "No está establecido el ID del usuario actual"
+
+#: templates/reminders-admin-page.php:32
+msgid "Search Reminders"
+msgstr "Recordatorios de búsqueda "
+
+#: class-ivole-admin-menu-reviews.php:446
+msgid "Customer Reviews (CR)"
+msgstr "Valoraciones de los clientes (CR)"
+
+#: class-ivole-manual.php:144
+msgid "Error: could not save the secret key to DB. Please try again."
+msgstr "Error: no se pudo guardar la clave secreta en la BD. Por favor, inténtalo de nuevo."
+
+#: class-ivole-reviews-list-table.php:670
+#: class-ivole-reviews-list-table.php:721
+msgid "A copy of this reply was published on CusRev portal"
+msgstr "Se publicó una copia de esta respuesta en el portal de CusRev"
+
+#: class-ivole-admin-menu-reviews.php:517
+msgid "Reply could not be published to CR portal. Error "
+msgstr "No se pudo publicar la respuesta al portal CR. Error"
+
+#: class-ivole-settings-review-reminder.php:270
+msgid "Review reminders will be sent N days after this order status. It is recommended to use 'Completed' status."
+msgstr "Los recordatorios de las valoraciones se enviarán N días después del estado de este pedido. Se recomienda usar el estado 'completado'."
+
+#: class-ivole-settings-review-reminder.php:268
+msgid "Order Status"
+msgstr "Estado del pedido"
+
+#: class-ivole-settings-review-reminder.php:262
+msgid "Emails will be sent N days after order status is changed to the value specified in the field below. N is a sending delay that needs to be defined in this field."
+msgstr "Los correos electrónicos se enviarán N días después que el estado de este pedido se cambie al valor especificado en el campo a continuación. N es un retraso de envío que necesita definirse en este campo."
+
+#: class-ivole-admin-menu-reviews.php:365
+#: includes/qna/class-cr-admin-menu-qna.php:319
+msgid "ERROR: please type a comment."
+msgstr "Error: por favor, escribe un comentario."
+
+#: class-ivole-admin-menu-reviews.php:273
+#: includes/qna/class-cr-admin-menu-qna.php:245
+msgid "Submit Reply"
+msgstr "Enviar respuesta"
+
+#: class-ivole-admin-menu-reviews.php:272
+#: includes/qna/class-cr-admin-menu-qna.php:244
+msgid "Update Comment"
+msgstr "Actualizar comentario"
+
+#: class-ivole-admin-menu-reviews.php:271
+#: includes/qna/class-cr-admin-menu-qna.php:243
+msgid "Add Comment"
+msgstr "Añadir comentario"
+
+#: class-ivole-admin-menu-reviews.php:260
+#: includes/qna/class-cr-admin-menu-qna.php:235
+msgid "URL"
+msgstr "URL"
+
+#: class-ivole-admin-menu-reviews.php:241
+#: includes/qna/class-cr-admin-menu-qna.php:216
+msgid "Comment"
+msgstr "Comentario"
+
+#: class-ivole-admin-menu-reviews.php:237
+#: includes/qna/class-cr-admin-menu-qna.php:212
+msgid "Add new Comment"
+msgstr "Añadir nuevo comentario"
+
+#: class-ivole-reviews-list-table.php:588
+#: includes/qna/class-cr-qna-list-table.php:558
+msgid "Reply"
+msgstr "Responder"
+
+#: class-ivole-reviews-list-table.php:588
+#: includes/qna/class-cr-qna-list-table.php:558
+msgid "Reply to this comment"
+msgstr "Responder a este comentario"
+
+#: class-ivole-license.php:64
+msgid "Active: Free Version"
+msgstr "Activa: Versión gratuita"
+
+#: class-ivole-admin-menu-reviews.php:361
+#: includes/qna/class-cr-admin-menu-qna.php:315
+msgid "Sorry, you must be logged in to reply to a comment."
+msgstr "Lo sentimos, debes estar conectado para responder a una comentario"
+
+#: class-ivole-admin-menu-reviews.php:341
+#: includes/qna/class-cr-admin-menu-qna.php:295
+msgid "ERROR: you are replying to a comment on a draft post."
+msgstr "ERROR: estás respondiendo a un comentario de una entrada en borrador."
+
+#: class-ivole-admin-menu-reviews.php:236
+msgid "Reply to Review"
+msgstr "Responder a la valoración"
+
+#: class-ivole-admin-menu-reviews.php:235
+#: includes/qna/class-cr-admin-menu-qna.php:210
+msgid "Edit Comment"
+msgstr "Editar comentario"
+
+#: class-ivole-reviews-list-table.php:194
+msgid "No reviews found."
+msgstr "No se encontraron valoraciones."
+
+#: class-ivole-admin-menu-reviews.php:426
+#: includes/qna/class-cr-admin-menu-qna.php:374
+msgctxt "comments"
+msgid "%s in moderation"
+msgid_plural "%s in moderation"
+msgstr[0] "%s en moderación"
+msgstr[1] "%s en moderación"
+
+#: class-ivole-admin-menu-reviews.php:422
+#: includes/qna/class-cr-admin-menu-qna.php:370
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#: class-ivole-settings-license.php:78
+msgid "Please enter your license key (free or pro) in the field below. The plugin will automatically determine type of your license key."
+msgstr "Por favor, introduce tu clave de licencia (gratuita o profesional) en el campo a continuación. El plugin automáticamente determinará el tipo de tu clave de licencia. "
+
+#: class-ivole-settings-license.php:38
+msgid "&#9733; License Key &#9733;"
+msgstr "&#9733; Clave de licencia &#9733;"
+
+#: class-ivole-sender.php:110
+msgid "CR: a review reminder could not be scheduled."
+msgstr "CR: no se pudo programar un recordatorio de valoración."
+
+#: class-ivole-reminders-list-table.php:217
+msgid "Order Number"
+msgstr "Número de pedido"
+
+#: class-ivole-sender.php:116
+msgid "CR: a review reminder was successfully scheduled for %s."
+msgstr "CR: se programó un recordatorio de las valoraciones correctamente para %s. "
+
+#: class-ivole-reminders-list-table.php:220
+msgid "Actions"
+msgstr "Acciones"
+
+#: class-ivole-reminders-list-table.php:219
+msgid "Scheduled"
+msgstr "Programado"
+
+#: class-ivole-reminders-list-table.php:203
+#: class-ivole-reminders-list-table.php:385
+msgid "Send Now"
+msgstr "Enviar ahora"
+
+#: templates/reminders-admin-page.php:2
+msgid "Scheduled Review Reminders"
+msgstr "Recordatorio de comentario programado"
+
+#: class-ivole-admin-menu-reminders.php:41
+#: class-ivole-admin-menu-reminders.php:42
+msgid "Reminders"
+msgstr "Recordatorios"
+
+#: templates/reminders-admin-page.php:48
+msgid "Are you sure you want to cancel the review reminder(s)?"
+msgstr "¿Estás seguro que quieres cancelar el(los) recordatorios(s) de la(s) valoración(es)?"
+
+#: templates/reminders-admin-page.php:17
+msgid "A list of review reminders scheduled by the plugin to be sent in the future."
+msgstr "El plugin programó una lista de recordatorios de las valoraciones para enviarse en el futuro. "
+
+#: class-ivole-reminders-list-table.php:306
+msgid "Select reminder"
+msgstr "Seleccionar recordatorio "
+
+#: class-ivole-reminders-list-table.php:189
+msgid "There are currently no scheduled review reminders"
+msgstr "Actualmente no hay recordatorios de valoración programados "
+
+#: templates/reminders-admin-page.php:52
+msgid "Are you sure you want to send the review reminder(s) now?"
+msgstr "¿Estás seguro que quieres enviar el recordatorio de valoración ahora?"
+
+#: class-cr-product-feed-status.php:108
+msgid "When active, an XML file with product reviews for Google Shopping will be generated immediately after saving settings and then updated every 24 hours."
+msgstr "Cuando está activo, se generará un archivo XML para las valoraciones de Google Shopping, inmediatamente después de guardar los ajustes y, después, se actualizarán cada 24 horas."
+
+#: class-ivole-settings-review-reminder.php:211
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: class-ivole-admin-menu-diagnostics.php:114
+msgid " Error message: "
+msgstr "Mensaje de error: "
+
+#: class-ivole-admin-menu-diagnostics.php:101
+msgid "Error message: "
+msgstr "Mensaje de error:"
+
+#: class-ivole-admin-menu-diagnostics.php:95
+msgid "Error code: "
+msgstr "Código de error:"
+
+#: class-ivole-reviews.php:134
+msgid "Error: You tried to upload too many files. The maximum number of files that you can upload is "
+msgstr "Error: Intentaste subir demasiados archivos. El número máximo de archivos que puedes subir es "
+
+#: class-ivole-settings-review-extensions.php:81
+msgid "Enable attachment of images to reviews left on WooCommerce product pages. If you would like to enable attachment of images on aggregated review forms, this can be done <a href=\""
+msgstr "Activar el adjunto de las imágenes para las valoraciones dejas en las páginas de los productos de WooCommerce. Si quieres activar el adjunto de las imágenes en los formularios de las valoraciones agregadas, se puede hacer <a href=\""
+
+#: class-cr-product-feed-reviews.php:156
+msgid "XML Feed Field"
+msgstr "Campo de feed XML"
+
+#: class-cr-product-feed-reviews.php:115
+msgid "Fields Mapping"
+msgstr "Asignación de campos"
+
+#: class-ivole-verified-reviews.php:85
+msgid "Trust badges activation error #98. "
+msgstr "Error de activación de las acreditaciones de confianza #98"
+
+#: class-cr-product-feed-reviews.php:116
+msgid "Specify WooCommerce fields that should be mapped to GTIN, MPN, SKU, and Brand fields in XML Product Review Feed for Google Shopping."
+msgstr "Especifica los campos de WooCommerce que deben asignarse a los campos GTIN, MPN, SKU, y marca en el feed de las valoraciones de los productos de XML para Google Shopping."
+
+#: class-ivole-admin-menu-settings.php:192
+msgid "Choose "
+msgstr "Elegir"
+
+#: class-ivole-settings-review-discount.php:98
+msgid "Choose if an individual unique coupon will be generated foreach customer or the same existing coupon configured in WooCommercewill be sent to all customers."
+msgstr "Selecciona si se generará un cupón único individual para cada cliente o se enviará el mismo cupón existente configurado en WooCommerce a todos los clientes."
+
+#: class-ivole-admin-menu-diagnostics.php:108
+msgid "Details: "
+msgstr "Datos: "
+
+#: class-ivole-settings-review-reminder.php:571
+msgid "Enable attachment of pictures and videos on aggregated review forms. Uploaded media files are stored on Amazon S3. The storage is free and sponsored by professional licenses. This option applies only to aggregated review forms. If you would like to enable attachment of pictures to reviews submitted on WooCommerce product pages, this can be done %1$shere%2$s."
+msgstr "Permite adjuntar imágenes y vídeos en los formularios de valoraciones acumuladas. Los archivos de medios subidos son almacenados en Amazon S3. El almacenamiento es gratuito y patrocinado por licencias profesionales. Esta opción solo se aplica a los formularios de valoraciones acumuladas. Si quieres permitir adjuntar imágenes a las valoraciones enviadas en las páginas de producto de WooCommerce, esto puede hacerse %1$saquí%2$s."
+
+#: class-cr-product-feed-identifiers.php:247
+#: class-cr-product-feed-reviews.php:250
+msgid "Product Name"
+msgstr "Nombre del producto"
+
+#: class-cr-product-feed-identifiers.php:246
+#: class-cr-product-feed-reviews.php:249
+msgid "Product SKU"
+msgstr "SKU del producto"
+
+#: class-cr-product-feed-identifiers.php:192
+#: class-cr-product-feed-identifiers.php:245
+#: class-cr-product-feed-reviews.php:248
+msgid "Product ID"
+msgstr "ID del producto"
+
+#: class-cr-product-feed-identifiers.php:108
+#: class-cr-product-feed-identifiers.php:231
+#: class-cr-product-feed-reviews.php:208 class-cr-product-fields.php:61
+#: class-cr-product-fields.php:136
+msgid "Brand"
+msgstr "Marca"
+
+#: class-cr-product-feed-reviews.php:195
+msgid "SKU"
+msgstr "SKU"
+
+#: class-cr-product-feed-identifiers.php:101
+#: class-cr-product-feed-identifiers.php:218
+#: class-cr-product-feed-reviews.php:182 class-cr-product-fields.php:50
+#: class-cr-product-fields.php:118
+msgid "MPN"
+msgstr "MPN"
+
+#: class-cr-product-feed-identifiers.php:94
+#: class-cr-product-feed-identifiers.php:205
+#: class-cr-product-feed-reviews.php:169 class-cr-product-fields.php:39
+#: class-cr-product-fields.php:104
+msgid "GTIN"
+msgstr "GTIN"
+
+#: class-cr-product-feed-reviews.php:161
+msgid "WooCommerce Field"
+msgstr "Campo de WooCommerce"
+
+#: class-cr-admin-menu-product-feed.php:62
+msgid "Google"
+msgstr "Google"
+
+#: class-ivole-google-shopping-feed.php:360
+msgid "Anonymous"
+msgstr "Anónimo"
+
+#: class-cr-admin-menu-product-feed.php:61
+msgid "Integration with Google Services"
+msgstr "Integración con los servicios de Google"
+
+#: class-cr-product-feed-status.php:107
+msgid "Generate XML Product Review Feed for Google Shopping"
+msgstr "Generar el feed XML de valoración del producto para Google Shopping"
+
+#: class-cr-product-feed-status.php:106
+msgid "Generate Product Review Feed"
+msgstr "Generar el feed de valoración del producto"
+
+#: class-cr-product-feed-status.php:116
+msgid "URL of the file with the product reviews feed that should be maintained in Google Merchant Center."
+msgstr "La URL del archivo con el feed de valoraciones del producto que debe mantenerse en Google Merchant Center."
+
+#: class-ivole-settings-review-extensions.php:220
+msgid "Enable this option to remove plugin's branding (\"Powered by Customer Reviews plugin\") from the reviews summary bar. If you like our plugin and would like to support us, please disable this checkbox."
+msgstr "Activa esta opción para eliminar la marca del plugin («Funciona con el plugin Customer Reviews») desde la barra de resumen de valoraciones. Si te gusta nuestro plugin y quieres apoyarnos, por favor, desactiva esta casilla de verificación."
+
+#: class-ivole-settings-review-reminder.php:195
+msgid "Lithuanian"
+msgstr "Lituano"
+
+#: includes/import-export/class-ivole-background-importer.php:63
+msgid "Line %1$d >> Error: no data for this review."
+msgstr "Línea %1$d >> Error: No hay datos para esta valoración."
+
+#: class-ivole-settings-review-reminder.php:187
+msgid "Hebrew"
+msgstr "Hebreo"
+
+#: class-ivole-settings-review-reminder.php:171
+msgid "Arabic"
+msgstr "Árabe"
+
+#: class-ivole-reviews.php:987
+msgid "External link"
+msgstr "Enlace externo"
+
+#: class-ivole-verified-reviews.php:97
+msgid "Trust badges activation error: page name contains unsupported symbols. Only latin characters (a-z), numbers (0-9), and . symbol are allowed."
+msgstr "Error en la activación de las acreditaciones de confianza: el nombre de la página contiene símbolos no compatibles. Solo se permiten caracteres latinos (a-z), números (0-9) y símbolos."
+
+#: class-ivole-settings-trust-badges.php:118
+msgid "Shortcode and preview of the small dark trust badge."
+msgstr "El shortcode y la vista previa de la pequeña acreditación de confianza oscura.  "
+
+#: class-ivole-settings-trust-badges.php:116
+msgid "Small Dark Badge"
+msgstr "Acreditación pequeña oscura"
+
+#: class-ivole-settings-trust-badges.php:102
+msgid "Shortcode and preview of the small light trust badge."
+msgstr "El shortcode y la vista previa de la pequeña acreditación de confianza clara."
+
+#: class-ivole-settings-trust-badges.php:100
+msgid "Small Light Badge"
+msgstr "Acreditación pequeña clara"
+
+#: class-ivole-settings-trust-badges.php:53
+#: class-ivole-settings-trust-badges.php:77
+#: class-ivole-settings-trust-badges.php:83
+msgid "Trust Badges"
+msgstr " Acreditaciones de confianza"
+
+#: includes/import-export/class-ivole-background-importer.php:211
+msgid "Line %1$d >> Error: Duplicate review."
+msgstr "Línea %1$d >> Error: Valoración duplicada"
+
+#: includes/import-export/class-ivole-background-importer.php:133
+msgid "Line %1$d >> Error: Duplicate review within CSV file."
+msgstr "Línea %1$d >> Error: Valoración duplicada dentro del archivo CSV."
+
+#: includes/import-export/class-ivole-background-importer.php:115
+msgid "Line %1$d >> Error: %2$s is not a valid email address."
+msgstr "Línea %1$d >> Error: %2$s no es una dirección de correo electrónico valida. "
+
+#: includes/import-export/class-ivole-background-importer.php:106
+msgid "Line %1$d >> Error: display name cannot be empty."
+msgstr "Línea %1$d >> Error: el nombre para mostrar no puede estar vacío."
+
+#: includes/import-export/class-ivole-background-importer.php:95
+msgid "Line %1$d >> Error: product with ID = %2$d doesn't exist in this WooCommerce store."
+msgstr "Línea %1$d>> Error: producto con ID = %2$d no existe en esta tienda WooCommerce."
+
+#: includes/import-export/class-ivole-background-importer.php:79
+msgid "Line %1$d >> Error: review score = %2$d. Review scores must be between 1 and 5."
+msgstr "Línea %1$d >> Error:la puntuación  de la valoración = %2$d. Las puntuaciones de las valoraciones deben ser entre 1 y 5."
+
+#: includes/import-export/class-ivole-admin-menu-import.php:193
+msgid "Details:"
+msgstr "Detalles: "
+
+#: class-ivole-settings-trust-badges.php:158
+msgid "Shortcode and preview of the wide dark trust badge with store rating. The wide badge has a version for small screens that will be automatically shown when a website is viewed from phones."
+msgstr "El shortcode y la vista previa de la ancha acreditación de confianza oscura con la puntuación de la tienda. La acreditación ancha tiene una versión para las pantallas pequeñas que se mostrarán automáticamente cuando una se vea una web desde los teléfonos. "
+
+#: class-ivole-settings-trust-badges.php:156
+msgid "Wide Dark Badge (with Store Rating)"
+msgstr "Acreditación oscura ancha (con valoración de la tienda)"
+
+#: class-ivole-settings-trust-badges.php:150
+msgid "Shortcode and preview of the wide dark trust badge. The wide badge has a version for small screens that will be automatically shown when a website is viewed from phones."
+msgstr "El shortcode y la vista previa de la acreditación de confianza oscura ancha con la valoración de la tienda. La acreditación ancha tiene una versión para las pantallas pequeñas que se mostrarán automáticamente cuando se vea una web desde teléfonos. "
+
+#: class-ivole-settings-trust-badges.php:148
+msgid "Wide Dark Badge"
+msgstr "Acreditación oscura ancha"
+
+#: class-ivole-settings-trust-badges.php:140
+msgid "Wide Light Badge (with Store Rating)"
+msgstr "Acreditación clara ancha (con valoración de la tienda)"
+
+#: class-ivole-settings-trust-badges.php:134
+msgid "Shortcode and preview of the wide light trust badge. The wide badge has a version for small screens that will be automatically shown when a website is viewed from phones."
+msgstr "El shortcode y la vista previa de la acreditación de confianza clara ancha con la valoración de la tienda. La amplia acreditación tiene una versión para las pantallas pequeñas que se mostrarán automáticamente cuando se vea una web desde teléfonos. "
+
+#: class-ivole-settings-trust-badges.php:142
+msgid "Shortcode and preview of the wide light trust badge with store rating. The wide badge has a version for small screens that will be automatically shown when a website is viewed from phones."
+msgstr "El shortcode y la vista previa de la acreditación de confianza clara ancha con la valoración de la tienda. La acreditación ancha tiene una versión para las pantallas pequeñas que se mostrarán automáticamente cuando se vea una web desde teléfonos. "
+
+#: class-ivole-settings-trust-badges.php:132
+msgid "Wide Light Badge"
+msgstr "Acreditación clara ancha"
+
+#: class-ivole-settings-trust-badges.php:126
+msgid "Shortcode and preview of the small dark trust badge with store rating."
+msgstr "El shortcode y la vista previa de la pequeña acreditación de confianza oscura con la valoración de la tienda."
+
+#: class-ivole-settings-trust-badges.php:124
+msgid "Small Dark Badge (with Store Rating)"
+msgstr "Acreditación pequeña oscura (con la valoración de la tienda)"
+
+#: class-ivole-settings-trust-badges.php:110
+msgid "Shortcode and preview of the small light trust badge with store rating."
+msgstr "El shortcode y la vista previa de la pequeña acreditación de confianza con la valoración de la tienda. "
+
+#: class-ivole-settings-trust-badges.php:108
+msgid "Small Light Badge (with Store Rating)"
+msgstr "Acreditación pequeña clara (con la valoración de la tienda)"
+
+#: class-ivole-settings-review-reminder.php:567
+msgid "Attach Media"
+msgstr "Adjuntar medios "
+
+#: class-ivole-settings-review-reminder.php:553
+msgid "Shop Rating"
+msgstr "Valoración de la tienda"
+
+#: class-ivole-settings-review-reminder.php:557
+msgid "Enable this option if you would like to include a separate question for a general shop review in addition to questions for product reviews."
+msgstr "Activa esta opción si quieres incluir una pregunta distinta para una valoración de tienda en general además de preguntas para las valoraciones de los productos. "
+
+#: class-ivole-admin.php:166
+msgid "<strong>Customer Reviews for WooCommerce</strong> plugin has been updated. This update adds a new feature (Shop Rating) that enables customers to rate your shop in general (website, customer service, and delivery). If you would like to try this feature, you should enable it in the <a href=\"%s\">plugin settings</a>."
+msgstr "<strong>Las valoraciones de los clientes para el plugin de WooCommerce</strong> se ha actualizado. Esta actualización añade una nueva característica (Valoración de la tienda) que activa a los clientes a puntuar tu tienda en general (web, servicio al cliente, y entrega). Si quieres probar esta característica, debes activarla en los <a href=\"%s\">ajustes del plugin</a>."
+
+#: class-ivole-settings-trust-badges.php:79
+msgid "<p>Increase your store's conversion rate by placing a \"trust badge\" on the home, checkout or any other page(s). Let customers feel more confident about shopping on your site by featuring a trust badge that shows a summary of verified customer reviews. Trust badges can be enabled using shortcodes or blocks in the page editor (blocks require WordPress 5.0 or newer).</p><p>Reviews are considered to be verified when they are collected via an independent third-party website (www.cusrev.com) integrated with this plugin. Reviews submitted directly on your site cannot be considered as verified. Each trust badge contains a nofollow link to a dedicated page at <b>www.cusrev.com</b> with all verified reviews for your store. You can configure URL of the page with verified reviews for your store below.</p>"
+msgstr "<p>Aumenta la tasa de conversión de tu tienda colocando una \"acreditación de confianza\" en la página de inicio, en finalizar compra o cualquier otra(s) página(s). Deja que los clientes se sientan más seguros de comprar en tu sitio con una acreditación de confianza que muestre un resumen de las reseñas verificadas de los clientes. Las acreditaciones de confianza se pueden activar usando los shortcodes o bloque en el editor de la página. (los bloques requieren de WordPress 5.0 o más reciente). </p><p> Las reseñas son consideradas verificadas cuando se recopilan mediante una web independiente de terceros (www.cusrev.com) integrada con el plugin. Las reseñas enviadas directamente a tu sitio no se pueden considerar como verificadas. Cada acreditación de confianza contiene un enlace nofollow a una página dedicada en <b>www.cusrev.com</b> con todas las reseñas verificadas para tu tienda. Puedes configurar el URL de la página con las reseñas verificadas para tu tienda a continuación.</p> "
+
+#: includes/import-export/class-ivole-admin-import.php:161
+msgid "Failed to start background importer, please disable Basic Auth and retry"
+msgstr "No se pudo iniciar el importador de fondo, por favor desactiva la identificación básica e inténtalo de nuevo"
+
+#: class-ivole-settings-review-reminder.php:193
+msgid "Korean"
+msgstr "Coreano"
+
+#: class-ivole-settings-review-reminder.php:209
+msgid "Turkish"
+msgstr "Turco"
+
+#: class-ivole-settings-review-reminder.php:192
+msgid "Japanese"
+msgstr "Japonés "
+
+#: class-ivole-settings-review-reminder.php:80
+#: class-ivole-settings-review-reminder.php:85
+#: class-ivole-settings-review-reminder.php:90
+#: class-ivole-settings-review-reminder.php:860
+#: class-ivole-settings-review-reminder.php:861
+#: class-ivole-settings-review-reminder.php:862
+#: class-ivole-settings-review-reminder.php:863
+#: class-ivole-settings-review-reminder.php:864
+msgid "Checking license..."
+msgstr "Comprobando la licencia…"
+
+#: ivole.php:195
+msgid "Enable automatic review reminders"
+msgstr "Activa los recordatorios de valoraciones automáticas "
+
+#: ivole.php:194
+msgid "Hide this message (but don't enable automatic review reminders)"
+msgstr "Oculta este mensaje (pero no actives los recordatorios de las valoraciones automáticas)"
+
+#: class-ivole-settings-review-reminder.php:318
+msgid "If reminders are enabled only for specific user roles, this field enables you to choose these roles."
+msgstr "Si los recordatorios están activados solo para perfiles de usuarios específicos, este campo te activa para seleccionar estos perfiles. "
+
+#: class-ivole-settings-review-reminder.php:312
+msgid "Specific Roles"
+msgstr "Perfiles específicos "
+
+#: class-ivole-settings-review-reminder.php:311
+msgid "All Roles"
+msgstr "Todos los perfiles "
+
+#: class-ivole-settings-review-reminder.php:304
+msgid "Define if reminders will be send for all or only specific roles of users."
+msgstr "Define si los recordatorios se enviarán para todos o solo los perfiles específicos de usuarios."
+
+#: class-ivole-settings-review-reminder.php:302
+msgid "Enable for Roles"
+msgstr "Activar para perfiles "
+
+#: class-ivole-settings-review-extensions.php:106
+msgid ""
+"Disable lightboxes for images attached to reviews (not recommended).\n"
+"Use this option only if your theme generates lightboxes for any picture on the website\n"
+"and this leads to two lightboxes shown after clicking on an image attached to a review."
+msgstr "Desactiva las cajas de luz para las imágenes adjuntas a las valoraciones (no recomendado). Usa esta opción solo si tu tema genera las cajas de luz para cualquier imagen en la web y esto lleva a que se muestren dos cajas de luz después de hacer clic en una imagen adjunta a una valoración. "
+
+#: ivole.php:192
+msgid "It looks like this site has moved or is a duplicate site. %1$sCustomer Reviews for WooCommerce%2$s has disabled sending automatic review reminder emails on this site to prevent duplicate reminders from a staging or test environment."
+msgstr "Parece que este sitio ha sido movido o es un sitio duplicado. %1$sCustomer Reviews for WooCommerce%2$s ha desactivado en este sitio el envío automático de correos electrónicos de recordatorio de reseñas para evitar recordatorios duplicados desde un entorno de prueba o ensayo."
+
+#: class-ivole-settings-review-reminder.php:316
+msgid "Roles"
+msgstr "Perfiles"
+
+#: class-ivole-settings-review-extensions.php:105
+msgid "Disable Lightbox"
+msgstr "Desactiva la caja de luz"
+
+#: class-ivole-manual.php:142
+msgid "Error: the order was placed by a customer who doesn't have a role for which review reminders are enabled."
+msgstr "Error: el pedido lo realizó un cliente que no tiene el perfil para el que estén activados los recordatorios de reseñas."
+
+#. translators: %s: number of comments approved
+#: templates/all-reviews-admin-page.php:65
+msgid "%s review approved"
+msgid_plural "%s reviews approved"
+msgstr[0] "%s valoración aprobada"
+msgstr[1] "%s valoraciones aprobadas "
+
+#: templates/all-reviews-admin-page.php:44
+msgid "Sorry, you are not allowed to edit reviews for this product."
+msgstr "Los siento, no tienes permiso para editar las valoraciones para este producto. "
+
+#: templates/all-reviews-admin-page.php:41
+msgid "Invalid Review ID."
+msgstr "ID de la valoración no valida."
+
+#: templates/all-reviews-admin-page.php:15
+msgid "All Reviews"
+msgstr "Todas las valoraciones"
+
+#: templates/all-reviews-admin-page.php:7
+msgid "Reviews for &#8220;%s&#8221;"
+msgstr "Valoraciones para &#8220;%s&#8221;"
+
+#: class-ivole-reviews-list-table.php:1144
+#: includes/qna/class-cr-qna-list-table.php:948
+msgid "No pending comments"
+msgstr "No hay comentarios pendientes"
+
+#: class-ivole-reviews-list-table.php:1121
+#: includes/qna/class-cr-qna-list-table.php:925
+msgid "No approved comments"
+msgstr "No hay comentarios aprobados"
+
+#: class-ivole-reviews-list-table.php:1098
+#: class-ivole-reviews-list-table.php:1121
+#: class-ivole-reviews-list-table.php:1144
+#: includes/qna/class-cr-qna-list-table.php:902
+#: includes/qna/class-cr-qna-list-table.php:925
+#: includes/qna/class-cr-qna-list-table.php:948
+msgid "No comments"
+msgstr "No hay comentarios"
+
+#: class-ivole-reviews-list-table.php:1093
+#: includes/qna/class-cr-qna-list-table.php:897
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] "%s comentario pendiente"
+msgstr[1] "%s comentarios pendientes"
+
+#: class-ivole-reviews-list-table.php:1092
+#: includes/qna/class-cr-qna-list-table.php:896
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] "%s comentario aprobado"
+msgstr[1] "%s comentarios aprobados"
+
+#: class-ivole-reviews-list-table.php:1091
+#: includes/qna/class-cr-qna-list-table.php:895
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s comentario"
+msgstr[1] "%s comentarios"
+
+#: class-ivole-reviews-list-table.php:908
+#: includes/qna/class-cr-qna-list-table.php:706
+msgid "g:i a"
+msgstr "g:i a"
+
+#: class-ivole-reviews-list-table.php:907
+#: includes/qna/class-cr-qna-list-table.php:705
+msgid "Y/m/d"
+msgstr "d/m/y"
+
+#: class-ivole-reviews-list-table.php:390
+#: includes/qna/class-cr-qna-list-table.php:379
+msgid "Submitted On"
+msgstr "Enviado el"
+
+#: class-ivole-reviews-list-table.php:382
+#: includes/qna/class-cr-qna-list-table.php:372
+#: class-ivole-reminders-list-table.php:218
+msgid "Customer"
+msgstr "Cliente"
+
+#: class-ivole-reviews-list-table.php:342
+#: includes/qna/class-cr-qna-list-table.php:332
+msgid "Empty Spam"
+msgstr "Vaciar spam"
+
+#: class-ivole-reviews-list-table.php:309
+#: includes/qna/class-cr-qna-list-table.php:299
+msgid "Move to Trash"
+msgstr "Mover a la papelera"
+
+#: class-ivole-reviews-list-table.php:307
+#: class-ivole-reviews-list-table.php:566
+#: includes/qna/class-cr-qna-list-table.php:297
+#: includes/qna/class-cr-qna-list-table.php:550
+msgid "Delete Permanently"
+msgstr "Borrar permanentemente"
+
+#: class-ivole-reviews-list-table.php:303
+#: class-ivole-reviews-list-table.php:558
+#: includes/qna/class-cr-qna-list-table.php:293
+#: includes/qna/class-cr-qna-list-table.php:542
+msgctxt "comment"
+msgid "Not Spam"
+msgstr "Sin spam"
+
+#: class-ivole-reviews-list-table.php:301
+#: class-ivole-reviews-list-table.php:562
+#: includes/qna/class-cr-qna-list-table.php:291
+#: includes/qna/class-cr-qna-list-table.php:546
+msgid "Restore"
+msgstr "Restaurar"
+
+#: class-ivole-reviews-list-table.php:298
+#: includes/qna/class-cr-qna-list-table.php:288
+msgctxt "comment"
+msgid "Mark as Spam"
+msgstr "Marcar como spam"
+
+#: class-ivole-reviews-list-table.php:296
+#: class-ivole-reviews-list-table.php:548
+#: class-ivole-reviews-list-table.php:551
+#: includes/qna/class-cr-qna-list-table.php:286
+#: includes/qna/class-cr-qna-list-table.php:532
+#: includes/qna/class-cr-qna-list-table.php:535
+msgid "Approve"
+msgstr "Aprobar"
+
+#: class-ivole-reviews-list-table.php:294
+#: class-ivole-reviews-list-table.php:546
+#: class-ivole-reviews-list-table.php:552
+#: includes/qna/class-cr-qna-list-table.php:284
+#: includes/qna/class-cr-qna-list-table.php:530
+#: includes/qna/class-cr-qna-list-table.php:536
+msgid "Unapprove"
+msgstr "Rechazar"
+
+#: class-ivole-reviews-list-table.php:234
+#: includes/qna/class-cr-qna-list-table.php:224
+msgctxt "comments"
+msgid "Trash <span class=\"count\">(%s)</span>"
+msgid_plural "Trash <span class=\"count\">(%s)</span>"
+msgstr[0] "Papelera <span class=\"count\">(%s)</span>"
+msgstr[1] "Papeleras <span class=\"count\">(%s)</span>"
+
+#: class-ivole-reviews-list-table.php:228
+#: includes/qna/class-cr-qna-list-table.php:218
+msgctxt "comments"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spams <span class=\"count\">(%s)</span>"
+
+#: class-ivole-reviews-list-table.php:222
+#: includes/qna/class-cr-qna-list-table.php:212
+msgctxt "comments"
+msgid "Approved <span class=\"count\">(%s)</span>"
+msgid_plural "Approved <span class=\"count\">(%s)</span>"
+msgstr[0] "Aprobado <span class=\"count\">(%s)</span>"
+msgstr[1] "Aprobados <span class=\"count\">(%s)</span>"
+
+#: class-ivole-reviews-list-table.php:216
+#: includes/qna/class-cr-qna-list-table.php:206
+msgctxt "comments"
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] "Pendiente <span class=\"count\">(%s)</span>"
+msgstr[1] "Pendiente <span class=\"count\">(%s)</span>"
+
+#: templates/all-reviews-admin-page.php:117
+msgid "Search Reviews"
+msgstr "Buscar valoraciones "
+
+#: templates/all-reviews-admin-page.php:104
+msgid "This review is already marked as spam."
+msgstr "Esta valoración ya se marcó como spam."
+
+#: templates/all-reviews-admin-page.php:101
+#: includes/qna/cr-qna-admin-page.php:89
+msgid "View Trash"
+msgstr "Ver papelera"
+
+#: templates/all-reviews-admin-page.php:101
+msgid "This review is already in the Trash."
+msgstr "Esta valoración ya está en la papelera. "
+
+#: templates/all-reviews-admin-page.php:98
+#: templates/all-reviews-admin-page.php:104
+msgid "Edit Review"
+msgstr "Editar la valoración "
+
+#: templates/all-reviews-admin-page.php:98
+msgid "This review is already approved."
+msgstr "Esta valoración ya está aprobada."
+
+#. translators: %s: number of comments permanently deleted
+#: templates/all-reviews-admin-page.php:92
+msgid "%s reviews deleted"
+msgid_plural "%s reviews deleted"
+msgstr[0] "%s valoración borrada"
+msgstr[1] "%s valoraciones borradas"
+
+#. translators: %s: number of comments restored from the Trash
+#: templates/all-reviews-admin-page.php:87
+msgid "%s review restored from the Trash"
+msgid_plural "%s reviews restored from the Trash"
+msgstr[0] "%s valoración restaurada de la papelera"
+msgstr[1] "%s valoraciones restauradas de la papelera"
+
+#. translators: %s: number of comments moved to the Trash
+#: templates/all-reviews-admin-page.php:82
+msgid "%s review moved to the Trash."
+msgid_plural "%s reviews moved to the Trash."
+msgstr[0] "%s valoración movida a la papelera."
+msgstr[1] "%s valoraciones movidas a la papelera."
+
+#. translators: %s: number of comments restored from the spam
+#: templates/all-reviews-admin-page.php:76
+msgid "%s review restored from the spam"
+msgid_plural "%s reviews restored from the spam"
+msgstr[0] "%s valoración restaurada de la papelera"
+msgstr[1] "%s valoraciones restauradas de la papelera"
+
+#. translators: %s: number of comments marked as spam
+#. translators: %s: number of comments moved to the Trash
+#: templates/all-reviews-admin-page.php:71
+#: templates/all-reviews-admin-page.php:82
+#: includes/qna/cr-qna-admin-page.php:59 includes/qna/cr-qna-admin-page.php:70
+msgid "Undo"
+msgstr "Deshacer"
+
+#. translators: %s: number of comments marked as spam
+#: templates/all-reviews-admin-page.php:71
+msgid "%s review marked as spam."
+msgid_plural "%s reviews marked as spam."
+msgstr[0] "%s valoración marcada como spam."
+msgstr[1] "%s valoraciones marcadas como spam."
+
+#: class-ivole-reviews-list-table.php:210
+#: includes/qna/class-cr-qna-list-table.php:200
+msgctxt "comments"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos los <span class=\"count\">(%s)</span>"
+
+#: class-ivole-reviews-list-table.php:192
+msgid "No reviews awaiting moderation."
+msgstr "No valoraciones pendientes por moderación."
+
+#: class-ivole-email-coupon.php:247 class-ivole-email.php:383
+#: class-ivole-email.php:412
+msgid "Item 2 Test"
+msgstr "Prueba del artículo 2"
+
+#: class-ivole-email-coupon.php:243 class-ivole-email.php:381
+#: class-ivole-email.php:408
+msgid "Item 1 Test"
+msgstr "Prueba del artículo 1"
+
+#: class-ivole-admin-menu-settings.php:243
+msgid "A name and price list of the products purchased."
+msgstr "Un nombre y lista de precios de los productos comprados."
+
+#: class-ivole-admin-menu-settings.php:120
+#: class-cr-admin-menu-product-feed.php:114
+msgid "Your settings have been saved."
+msgstr "Tus ajustes se han guardado."
+
+#: class-ivole-admin-menu-settings.php:104
+#: class-cr-admin-menu-product-feed.php:98
+msgid "Save changes"
+msgstr "Guardar los cambios"
+
+#: class-ivole-admin-menu-settings.php:67
+#: class-ivole-admin-menu-settings.php:68
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:63
+msgid "Import"
+msgstr "Importar"
+
+#: class-ivole-reviews-list-table.php:744
+msgid "via CR"
+msgstr "mediante CR"
+
+#: class-ivole-reviews-list-table.php:643
+#: includes/qna/class-cr-qna-list-table.php:618
+msgid "In reply to %s"
+msgstr "En respuesta a %s"
+
+#: class-ivole-reviews-list-table.php:615
+#: includes/qna/class-cr-qna-list-table.php:590
+msgid "Show more details"
+msgstr "Mostrar más detalles"
+
+#: class-ivole-reviews-list-table.php:572
+#: includes/qna/class-cr-qna-list-table.php:556
+msgid "Edit"
+msgstr "Editar"
+
+#: class-ivole-reviews-list-table.php:568
+#: includes/qna/class-cr-qna-list-table.php:552
+msgctxt "verb"
+msgid "Trash"
+msgstr "Enviar a la Papelera"
+
+#: class-ivole-reviews-list-table.php:556
+#: includes/qna/class-cr-qna-list-table.php:540
+msgctxt "verb"
+msgid "Spam"
+msgstr "Spam"
+
+#: class-ivole-reviews-list-table.php:906
+#: includes/qna/class-cr-qna-list-table.php:704
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: class-ivole-reviews-list-table.php:342
+#: includes/qna/class-cr-qna-list-table.php:332
+msgid "Empty Trash"
+msgstr "Vaciar papelera"
+
+#. translators: %s: Search query.
+#: templates/all-reviews-admin-page.php:25 templates/reminders-admin-page.php:9
+#: cr-tags-page.php:346 includes/qna/cr-qna-admin-page.php:13
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Resultados de búsqueda para &#8220;%s&#8221;"
+
+#: class-ivole-reviews-list-table.php:626
+#: includes/qna/class-cr-qna-list-table.php:601
+msgid "Select review"
+msgstr "Selecciona la reseña"
+
+#: class-ivole-reviews-list-table.php:572
+#: includes/qna/class-cr-qna-list-table.php:556
+msgid "Edit this review"
+msgstr "Edita esta reseña "
+
+#: class-ivole-reviews-list-table.php:568
+#: includes/qna/class-cr-qna-list-table.php:552
+msgid "Move this review to the Trash"
+msgstr "Mover esta reseña a la papelera"
+
+#: class-ivole-reviews-list-table.php:566
+#: includes/qna/class-cr-qna-list-table.php:550
+msgid "Delete this review permanently"
+msgstr "Eliminar esta reseña de manera permanente"
+
+#: class-ivole-reviews-list-table.php:548
+#: class-ivole-reviews-list-table.php:551
+#: includes/qna/class-cr-qna-list-table.php:532
+#: includes/qna/class-cr-qna-list-table.php:535
+msgid "Approve this review"
+msgstr "Aprobar esta reseña"
+
+#: class-ivole-reviews-list-table.php:556
+#: includes/qna/class-cr-qna-list-table.php:540
+msgid "Mark this review as spam"
+msgstr "Marcar esta reseña como spam"
+
+#: class-ivole-reviews-list-table.php:562
+#: includes/qna/class-cr-qna-list-table.php:546
+msgid "Restore this review from the Trash"
+msgstr "Restaurar esta reseña desde la papelera "
+
+#: class-ivole-reviews-list-table.php:546
+#: class-ivole-reviews-list-table.php:552
+#: includes/qna/class-cr-qna-list-table.php:530
+#: includes/qna/class-cr-qna-list-table.php:536
+msgid "Unapprove this review"
+msgstr "Rechazar esta reseña"
+
+#: class-ivole-reviews-list-table.php:558
+#: includes/qna/class-cr-qna-list-table.php:542
+msgid "Restore this review from the spam"
+msgstr "Restaurar esta reseña desde el spam"
+
+#: includes/import-export/class-ivole-admin-import.php:53
+msgid "No file was uploaded"
+msgstr "No se subió ningún archivo"
+
+#: includes/import-export/class-ivole-admin-import.php:41
+msgid "Permission denied"
+msgstr "Permiso denegado"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:233
+msgid "This product is not so great."
+msgstr "Este producto no es tan bueno."
+
+#: includes/import-export/class-ivole-admin-menu-import.php:228
+msgid "Example Customer"
+msgstr "Cliente de ejemplo"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:224
+msgid "This product is great!"
+msgstr "¡Este producto es grandioso!"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:398
+#: includes/import-export/class-cr-export-reviews.php:158
+msgid "Cancelled: %s"
+msgstr "Cancelado: %s"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:397
+#: includes/import-export/class-cr-export-reviews.php:157
+msgid "Finished: %s"
+msgstr "Terminado: %s"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:396
+#: includes/import-export/class-cr-export-reviews.php:156
+msgid "Started: %s"
+msgstr "Comenzado: %s"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:395
+msgid "Upload Failed"
+msgstr "Fallo al subir"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:394
+msgid "Upload Cancelled"
+msgstr "Se canceló la subida"
+
+#: includes/import-export/wp-background-process.php:423
+msgid "Every %d Minutes"
+msgstr "Cada %d minutos"
+
+#. translators: %d: interval
+#: includes/import-export/class-wc-background-process.php:172
+msgid "Every %d minutes"
+msgstr "Cada %d minutos"
+
+#: includes/import-export/class-ivole-admin-import.php:231
+msgid "The CSV file contains no reviews"
+msgstr "El archivo CSV no contiene valoraciones"
+
+#: includes/import-export/class-ivole-admin-import.php:189
+msgid "Cannot read CSV file"
+msgstr "No se puede leer el archivo CSV"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:392
+#: includes/import-export/class-cr-export-reviews.php:152
+msgid "Cancelling"
+msgstr "Cancelando"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:196
+msgid "New Upload"
+msgstr "Nueva subida"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:186
+msgid "Upload Completed"
+msgstr "Subida completada"
+
+#: class-ivole-admin-menu-reviews.php:275
+#: templates/cr-ajax-product-reviews.php:92
+#: templates/cr-ajax-product-reviews.php:145
+#: templates/cr-ajax-product-reviews.php:169 class-cr-tags-list-table.php:650
+#: includes/qna/class-cr-admin-menu-qna.php:247
+#: includes/import-export/class-ivole-admin-menu-import.php:182
+#: includes/import-export/class-ivole-admin-menu-import.php:393
+#: includes/import-export/class-cr-export-reviews.php:84
+#: includes/import-export/class-cr-export-reviews.php:153
+#: class-ivole-reminders-list-table.php:202
+#: class-ivole-reminders-list-table.php:383
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:160
+msgid "Maximum size: %s"
+msgstr "Tamaño máximo: %s"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:149
+#: includes/import-export/class-ivole-admin-menu-import.php:391
+msgid "No file selected"
+msgstr "No se ha seleccionado ningún archivo"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:130
+#: includes/import-export/class-cr-export-reviews.php:75
+#: includes/import-export/class-cr-export-reviews.php:93
+msgid "Download"
+msgstr "Descargar"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:128
+msgid "Step 1: Download template"
+msgstr "Paso 1: Descarga la plantilla "
+
+#: includes/import-export/class-ivole-admin-menu-import.php:115
+msgid "Import Reviews from CSV File"
+msgstr "Importación de las valoraciones del archivo CSV"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:139
+msgid "Step 3: Upload template with your reviews"
+msgstr "Paso 3: Sube la plantilla con tus reseñas"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:135
+msgid "Step 2: Enter reviews into the template"
+msgstr "Paso 2: Escribe las reseñas en la plantilla"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:401
+msgid "%d error(s)"
+msgstr "%d error(es)"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:400
+msgid "%d duplicate review(s) skipped"
+msgstr "%d comentario(s) duplicado(s) omitido(s)"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:156
+msgid "Choose File"
+msgstr "Elegir archivo"
+
+#: includes/import-export/class-ivole-admin-import.php:69
+msgid "The uploaded file is not a valid CSV file"
+msgstr "El archivo subido no es un archivo CSV válido"
+
+#: includes/import-export/class-ivole-admin-import.php:217
+msgid "The CSV file contains invalid or missing column headings, please refer to the template in step 1"
+msgstr "El archivo CSV contiene cabeceras de columnas no válidas o que faltan,consulta la plantilla en el paso 1"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:399
+msgid "%d review(s) successfully uploaded"
+msgstr "%d valoración(es) subidas correctamente"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:237
+#: includes/import-export/class-ivole-admin-menu-import.php:246
+msgid "Sample Customer"
+msgstr "Cliente de ejemplo"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:210
+msgid "Failed to download template: invalid nonce. <a href=\"%s\">Return to settings</a>"
+msgstr "No se  ha podido descargar la plantilla: nonce no válido. <a href=\"%s\">Volver a los ajustes</a>"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:390
+msgid "Import is in progress (%s/%s completed)"
+msgstr "La importación está en progreso (%s%s completado)"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:389
+msgid "Upload progress: %s%"
+msgstr "Progreso de subida: %s%"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:179
+msgid "Import is in progress"
+msgstr "La importación está en progreso"
+
+#: includes/import-export/class-ivole-admin-menu-import.php:167
+msgid "Upload"
+msgstr "Subir"
+
+#: class-ivole-settings-review-reminder.php:378
+msgid "By default, review reminders are sent to billing emails provided by customers during checkout. If you enable this option, the plugin will check if customers have accounts on your website, and review reminders will be sent to emails associated with their accounts. It is recommended to keep this option disabled."
+msgstr "Por defecto, los recordatorios de las verificaciones son enviadas a los correos electrónicos con facturación proporcionados por los clientes durante el pago. Si activas esta opción, el plugin comprobará si los clientes tienen cuenta en tu sitio, y se enviarán los recordatorios de valoración a los correos electrónicos asociados con sus cuentas. se recomienda mantener esta opción desactivada. "
+
+#: class-ivole-settings-review-reminder.php:377
+msgid "Registered Customers"
+msgstr "Clientes registrados"
+
+#: class-ivole-settings-review-reminder.php:223
+msgid "WPML Automatic"
+msgstr "WPML automático"
+
+#: class-ivole-settings-review-reminder.php:222
+msgid "It looks like you have WPML plugin activated. You might want to choose \"WPML Automatic\" option to enable automatic selection of language."
+msgstr "Parece que tienes activado el plugin WPML. Puede que quieras elegir la opción «WPML automático» para activar la selección automática de idioma. "
+
+#: class-ivole-settings-review-reminder.php:208
+msgid "Thai"
+msgstr "Tailandés"
+
+#: class-ivole-reviews.php:200 class-ivole-reviews.php:274
+#: class-ivole-reviews-list-table.php:788
+msgid "Video #%1$d from "
+msgstr "Vídeo #%1$d de "
+
+#: class-ivole-reviews.php:194 class-ivole-reviews.php:267
+#: class-ivole-reviews-list-table.php:781
+msgid "Uploaded video(s):"
+msgstr "Vídeo(s) subido(s): "
+
+#: class-ivole-admin-menu-diagnostics.php:122
+msgid "WP Version:"
+msgstr "Versión de WP:"
+
+#: class-ivole-admin-menu-diagnostics.php:123
+msgid "The version of WordPress installed on your site."
+msgstr "La versión de WordPress instalada en tu sitio. "
+
+#: class-ivole-admin-menu-diagnostics.php:55
+#: class-ivole-admin-menu-diagnostics.php:56
+msgid "Diagnostics"
+msgstr "Diagnósticos "
+
+#: class-ivole-settings-review-extensions.php:96
+msgid "Specify the maximum size (in MB) of an image that can be uploaded with a review. This setting applies only to reviews submitted on single product pages."
+msgstr "Especifica el tamaño máximo (en MB) de una imagen que se puede subir con una valoración. Es ajuste aplica solo para las valoraciones enviadas en las páginas de productos individuales. "
+
+#: class-ivole-settings-review-extensions.php:88
+msgid "Specify the maximum number of images that can be uploaded for a single review. This setting applies only to reviews submitted on single product pages."
+msgstr "Especifica el número máximo de imágenes que se pueden subir para una sola valoración. Este ajuste aplica solo para las valoraciones enviadas en las páginas de productos individuales. "
+
+#: class-ivole-admin-menu-diagnostics.php:177
+msgid "WC Lightbox:"
+msgstr "Caja de luz de WC: "
+
+#: class-ivole-admin-menu-diagnostics.php:168
+msgid "WC Zoom:"
+msgstr "Zoom de WC:"
+
+#: class-ivole-admin-menu-diagnostics.php:160
+msgid "Displays whether or not WooCommerce Slider library is enabled."
+msgstr "Muestra si la biblioteca de carrusel de WooCommerce esta activada o no. "
+
+#: class-ivole-admin-menu-diagnostics.php:159
+msgid "WC Slider:"
+msgstr "Carrusel de WC: "
+
+#: class-ivole-admin-menu-diagnostics.php:147
+msgid "WP REST API:"
+msgstr "WP REST API:"
+
+#: class-ivole-admin-menu-diagnostics.php:138
+msgid "Displays whether or not WP Cron Jobs are enabled."
+msgstr "Muestra si los trabajos de cron de WP están activados o no. "
+
+#: class-ivole-admin-menu-diagnostics.php:137
+msgid "WP Cron:"
+msgstr "Cron de WP:"
+
+#: class-ivole-admin-menu-diagnostics.php:133
+msgid "The version of cURL library installed on your site."
+msgstr "La versión de la biblioteca cURL instalada en tu sitio. "
+
+#: class-ivole-admin-menu-diagnostics.php:132
+msgid "cURL Version:"
+msgstr "Versión de cURL:"
+
+#: class-ivole-admin-menu-diagnostics.php:127
+msgid "WC Version:"
+msgstr "Version de WC: "
+
+#: class-ivole-admin-menu-diagnostics.php:178
+msgid "Displays whether or not WooCommerce Lightbox library is enabled."
+msgstr "Muestra si o no la biblioteca de la caja de luz de WooCommerce está activada"
+
+#: class-ivole-admin-menu-diagnostics.php:128
+msgid "The version of WooCommerce installed on your site."
+msgstr "La versión de WooCommerce instalada en tu sitio. "
+
+#: class-ivole-admin-menu-diagnostics.php:169
+msgid "Displays whether or not WooCommerce Zoom library is enabled."
+msgstr "Muestra si la biblioteca de WooCommerce Zone está activada o no."
+
+#: class-ivole-admin-menu-diagnostics.php:148
+msgid "Displays whether or not WP REST API is enabled."
+msgstr "Muestra si REST API de WP  está activada o no. "
+
+#: class-ivole-admin-menu-diagnostics.php:37
+msgid "Diagnostic report about parameters of your website configuration that are important for Customer Reviews plugin. If there are any errors or warnings below, the plugin might not work properly."
+msgstr "Diagnóstica el informe acera de los parámetros de la configuración de tu web que son importantes para el plugin de las valoraciones de los comentarios. Si hay algunos errores o advertencias a continuación, el plugin puede que no funcione correctamente. "
+
+#: class-ivole-admin-menu-diagnostics.php:35
+#: class-ivole-admin-menu-diagnostics.php:41
+msgid "Diagnostics Information"
+msgstr "Información del diagnóstico"
+
+#: class-ivole-settings-review-reminder.php:173
+msgid "Chinese"
+msgstr "Chino"
+
+#: class-ivole-verified-reviews.php:139
+msgid "Trust badges deactivation error #99."
+msgstr "Error de desactivación de las acreditaciones de confianza #99."
+
+#: class-ivole-verified-reviews.php:136
+msgid "Trust badges have been successfully deactivated."
+msgstr "La acreditaciones de confianza han sido desactivadas con éxito."
+
+#: class-ivole-verified-reviews.php:101
+msgid "Trust badges activation error #99."
+msgstr "Error en la activación de las acreditaciones de confianza #99."
+
+#: class-ivole-verified-reviews.php:91
+msgid "Trust badges have been successfully activated."
+msgstr "Se han activado las acreditaciones de confianza correctamente."
+
+#: class-ivole-reviews.php:986 class-ivole-reviews-grid.php:325
+#: class-ivole-reviews-grid.php:332 class-cr-reviews-slider.php:281
+#: class-cr-reviews-slider.php:288
+msgid "view original"
+msgstr "ver original"
+
+#: class-ivole-reviews.php:975 class-ivole-reviews.php:977
+#: class-ivole-reviews-grid.php:322 class-ivole-reviews-grid.php:324
+#: class-ivole-reviews-grid.php:329 class-ivole-reviews-grid.php:331
+#: class-cr-reviews-slider.php:278 class-cr-reviews-slider.php:280
+#: class-cr-reviews-slider.php:285 class-cr-reviews-slider.php:287
+msgid "Verified review"
+msgstr "Reseña verificada"
+
+#: class-ivole-all-reviews.php:329
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: class-ivole-all-reviews.php:328
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: class-ivole-settings-review-reminder.php:197
+msgid "Norwegian"
+msgstr "Noruego"
+
+#: class-ivole-settings-trust-badges.php:92
+msgid "Specify name of the page with verified reviews. This will be a base URL for reviews related to your shop. You can use alphanumeric symbols and '.' in the name of the page."
+msgstr "Especifica el nombre de la página con las valoraciones verificadas. Esto será una URL base para las valoraciones relacionadas con tu tienda. Puedes usar los símbolos alfanuméricos y '.' en el nombre de la página."
+
+#: class-ivole-verified-reviews.php:130
+msgid "Trust badges deactivation error #98. Please try again."
+msgstr "Error en la desactivación de las acreditaciones de confianza #98. Por favor intenta nuevamente. "
+
+#: class-ivole-verified-reviews.php:55
+msgid "Trust badges activation error: 'Verified Reviews Page' cannot be empty."
+msgstr "Error en la activación de las acreditaciones de confianza: 'La página de valoraciones verificadas' no puede estar vacía. "
+
+#: class-ivole-verified-reviews.php:94
+msgid "Trust badges activation error: '%s' is already in use. Please enter a different page name."
+msgstr "Error en la activación de las acreditaciones de confianza: '%s' ya está en uso. Por favor ingresa el nombre de una página diferente. "
+
+#: class-ivole-settings-trust-badges.php:91
+msgid "Verified Reviews Page"
+msgstr "Página de valoraciones verificada"
+
+#: class-ivole-reviews.php:108
+msgid "Upload up to %d images for your review (GIF, PNG, JPG, JPEG):"
+msgstr "Sube hasta %d imágenes para tu valoración (GIF, PNG, JPG, JPEG):"
+
+#: class-ivole-settings-review-reminder.php:172
+msgid "Bulgarian"
+msgstr "Búlgaro"
+
+#: class-ivole-settings-review-reminder.php:353
+msgid "Limit Number of Reminders"
+msgstr "Número límite de recordatorios"
+
+#: class-ivole-settings-review-reminder.php:198
+msgid "Polish"
+msgstr "Polaco "
+
+#: class-ivole-settings-review-reminder.php:354
+msgid "Enable this checkbox to make sure that no more than one review reminder is sent for each order."
+msgstr "Activa esta casilla de verificación para asegurar que no se envíe más de un recordatorio de valoración para cada pedido. "
+
+#: class-ivole-manual.php:138
+msgid "Error: maximum number of reminders per order is limited to one."
+msgstr "Error: el número máximo de recordatorios por orden se limita a uno. "
+
+#: class-ivole-settings-review-extensions.php:95
+msgid "Maximum Size of Image"
+msgstr "Tamaño máximo de la imagen "
+
+#: class-ivole-settings-review-extensions.php:87
+msgid "Quantity of Images"
+msgstr "Cantidad de imágenes "
+
+#: class-ivole-settings-review-reminder.php:179
+msgid "Estonian"
+msgstr "Estonio"
+
+#: class-ivole-reviews-grid.php:313 templates/review-compat.php:43
+#: templates/review-meta.php:50 includes/qna/class-cr-qna.php:66
+#: class-cr-reviews-slider.php:269
+msgid "verified owner"
+msgstr "propietario verificado"
+
+#: templates/review-compat.php:34
+msgid "Your comment is awaiting approval"
+msgstr "Tu comentario está pendiente de aprobación"
+
+#: templates/review-compat.php:27
+msgid "out of 5"
+msgstr "de 5"
+
+#: templates/review-compat.php:26
+msgid "Rated %d out of 5"
+msgstr "Valorado con %d de 5"
+
+#: class-ivole-reviews.php:379 class-ivole-all-reviews.php:383
+msgid "An error occurred with submission of your feedback. Please refresh the page and try again."
+msgstr "Ocurrió un error con el envío de tu respuesta. Por favor refresca la página e intenta nuevamente. "
+
+#: class-ivole-reviews.php:378 class-ivole-all-reviews.php:382
+msgid "Thank you for your feedback!"
+msgstr "¡Gracias por tu respuesta!"
+
+#: class-ivole-reviews.php:377 class-ivole-all-reviews.php:381
+msgid "Processing..."
+msgstr "Procesando..."
+
+#: class-ivole-reviews.php:351
+msgid "Yes"
+msgstr "Sí"
+
+#: class-ivole-reviews.php:342
+msgid "%d out of %d people found this helpful. Was this review helpful to you?"
+msgstr "%d de %d personas que encontraron esto útil. ¿Fue útil para ti esta valoración? "
+
+#: class-ivole-settings-review-extensions.php:212
+msgid "Vote for Reviews"
+msgstr "Vota por las valoraciones "
+
+#: class-ivole-settings-review-extensions.php:213
+msgid "Enable people to upvote or downvote reviews. The plugin allows one vote per review per person. If the person is a guest, the plugin uses cookies and IP addresses to identify this visitor."
+msgstr "Activa las personas para que voten a favor o en contra de las valoraciones. El plugin permite un voto por valoración por persona. Si la persona es invitada, el plugin usa cookie y direcciones IP para identificar este visitante. "
+
+#: class-ivole-admin.php:154
+msgid "<strong>Customer Reviews for WooCommerce</strong> plugin has been updated. This update adds a new feature that enables visitors to vote for reviews. If you would like to try this feature, you should enable it in the <a href=\"%s\">plugin settings</a>."
+msgstr "<strong>Customer Reviews for WooCommerce</strong> el plugin se ha actualizado. Esta actualización añade una nueva característica que activa a los visitantes a votar por las valoraciones. Si quieres probar esta característica, deberías activarla en los <a href=\"%s\">ajustes del plugin</a>. "
+
+#: class-ivole-reviews.php:380 class-ivole-all-reviews.php:384
+msgid "An error occurred with submission of your feedback. Please report it to the website administrator."
+msgstr "Ocurrió un error con el envío de tu respuesta. Por favor infórmala al administrador de la web."
+
+#: class-ivole-reviews.php:340
+msgid "Was this review helpful to you?"
+msgstr "¿Te ha resultado útil esta valoración?"
+
+#: class-ivole-reviews.php:357
+msgid "No"
+msgstr "No"
+
+#: class-ivole-settings-review-reminder.php:202
+msgid "Russian"
+msgstr "Ruso"
+
+#: class-ivole-settings-review-extensions.php:219
+msgid "Remove Plugin's Branding"
+msgstr "Elimina las marcas del plugin"
+
+#: templates/ivole-single-product-reviews.php:135
+#: templates/cr-ajax-product-reviews.php:151
+msgid "Rate&hellip;"
+msgstr "Valorar&hellip;"
+
+#: templates/ivole-single-product-reviews.php:134
+#: templates/cr-ajax-product-reviews.php:150
+msgid "Your rating"
+msgstr "Tu valoración"
+
+#: templates/ivole-single-product-reviews.php:91
+#: templates/cr-ajax-product-reviews.php:103 templates/qna-tab.php:62
+#: templates/qna-tab.php:94
+msgid "Submit"
+msgstr "Enviar"
+
+#: class-ivole-admin-menu-reviews.php:255
+#: templates/ivole-single-product-reviews.php:105
+#: templates/cr-ajax-product-reviews.php:118
+#: includes/qna/class-cr-admin-menu-qna.php:230
+msgid "Email"
+msgstr "Correo eletrónico"
+
+#: class-ivole-admin-menu-reviews.php:250
+#: templates/ivole-single-product-reviews.php:99
+#: templates/cr-ajax-product-reviews.php:112
+#: includes/qna/class-cr-admin-menu-qna.php:225
+msgid "Name"
+msgstr "Nombre"
+
+#. translators: %s is product title
+#: templates/ivole-single-product-reviews.php:87
+#: templates/cr-ajax-product-reviews.php:99
+msgid "Leave a Reply to %s"
+msgstr "Deja una respuesta a %s"
+
+#. translators: %s is product title
+#: templates/ivole-single-product-reviews.php:85
+#: templates/cr-ajax-product-reviews.php:97
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Sé el primero en valorar «%s»"
+
+#. translators: %s is product title
+#: class-ivole-reviews.php:1044 class-ivole-reviews.php:1056
+#: templates/ivole-single-product-reviews.php:85
+#: templates/cr-ajax-product-reviews.php:97
+msgid "Add a review"
+msgstr "Añadir una valoración"
+
+#: templates/ivole-single-product-reviews.php:74
+#: templates/cr-ajax-product-reviews.php:79
+msgid "There are no reviews yet."
+msgstr "No hay reseñas todavía."
+
+#. translators: 1: reviews count 2: product name
+#: templates/ivole-single-product-reviews.php:34
+#: templates/cr-ajax-product-reviews.php:43
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] "%1$s valoración para %2$s"
+msgstr[1] "%1$s valoraciones para  %2$s"
+
+#: class-ivole-reviews-list-table.php:383
+msgid "Review"
+msgstr "Reseña"
+
+#: class-ivole-reviews-list-table.php:387
+#: includes/qna/class-cr-qna-list-table.php:376
+msgid "Product"
+msgstr "Producto"
+
+#: ivole.php:112
+msgid "Unsubscribe"
+msgstr "Cancelar la suscripción"
+
+#: class-ivole-reviews.php:142
+msgid "Error: Uploaded file is too large. <br/> Go back to: "
+msgstr "Error: La subida del archivo es muy grande. <br/> Regresa a: "
+
+#: class-ivole-manual.php:108 class-ivole-manual.php:187
+#: class-ivole-manual.php:197
+msgid "No reminders sent yet"
+msgstr "Aun no se enviaron recordatorios "
+
+#: class-ivole-manual.php:106
+msgid " reminder(s) sent"
+msgstr "recordatorio(s) enviado(s)"
+
+#: class-ivole-manual.php:102 class-ivole-manual.php:208
+msgid "No reminders sent"
+msgstr "no se enviaron recordatorios"
+
+#: class-ivole-manual.php:46
+msgid "Send review reminder now"
+msgstr "Envía recordatorios de las valoraciones ahora "
+
+#: class-ivole-license.php:111
+msgid "License registration error #99"
+msgstr "Error en el registro de licencia #99"
+
+#: class-ivole-license.php:105
+msgid "License has been successfully registered for '%s'."
+msgstr "La licencia se se ha registrado correctamente para '%s'."
+
+#: class-ivole-license.php:99 class-ivole-license.php:108
+msgid "License registration error: %s."
+msgstr "Error en el registro de la licencia: %s. "
+
+#: class-ivole-license.php:69
+msgid "Unknown Error"
+msgstr "Error desconocido"
+
+#: class-ivole-license.php:51
+msgid "Not Active: "
+msgstr "Inactivo:"
+
+#: class-ivole-license.php:43
+msgid "Unknown: "
+msgstr "Desconocido:"
+
+#: class-ivole-email.php:37
+msgid "Please review your experience with products and services that you purchased at {site_title}."
+msgstr "Por favor valora tu experiencia con los productos y servicios que compraste en {site_title}."
+
+#: class-ivole-email.php:35
+msgid "Review Your Experience with Us"
+msgstr "Valora tu experiencia con nosotros"
+
+#: class-ivole-email.php:34 class-ivole-email.php:36
+msgid "How did we do?"
+msgstr "¿Qué tal lo hicimos?"
+
+#: class-ivole-settings-review-reminder.php:599
+msgid "Background color for heading of the form and product names."
+msgstr "Color del fondo para la cabecera del formulario y los nombres de los productos."
+
+#: class-ivole-settings-review-reminder.php:595
+msgid "Form Color 1"
+msgstr "Color del formulario 1"
+
+#: class-ivole-settings-review-reminder.php:560
+msgid "Comment Required"
+msgstr "El comentario es obligatorio"
+
+#: class-ivole-settings-review-reminder.php:545
+msgid "Body of the review form that will be sent to customers."
+msgstr "El cuerpo del formulario de la valoración que se enviará a los clientes. "
+
+#: class-ivole-settings-review-reminder.php:543
+msgid "Form Body"
+msgstr "Cuerpo del formulario"
+
+#: class-ivole-settings-review-reminder.php:536
+msgid "Header of the review form that will be sent to customers."
+msgstr "La cabecera del formulario de la valoración que se enviará a los clientes."
+
+#: class-ivole-settings-review-reminder.php:534
+msgid "Form Header"
+msgstr "Cabecera del formulario "
+
+#: class-ivole-settings-review-reminder.php:528
+msgid "Review Form Template"
+msgstr "Valora la plantilla del formulario"
+
+#: class-ivole-settings-review-reminder.php:500
+msgid "Footer of the email that will be sent to customers. Modification of this field is possible with the professional license."
+msgstr "El pie de página del correo electrónico que se enviará a los clientes. La modificación de este campo es posible con la licencia profesional. "
+
+#: class-ivole-settings-review-reminder.php:498
+msgid "Email Footer"
+msgstr "Pie de página del correo electrónico"
+
+#: class-ivole-settings-review-reminder.php:455
+msgid "Choose one of the available languages."
+msgstr "Escoge uno de los idiomas disponibles. "
+
+#: class-ivole-settings-review-reminder.php:447
+#: class-ivole-settings-review-reminder.php:453
+msgid "Language"
+msgstr "Idioma"
+
+#: class-ivole-settings-review-reminder.php:418
+msgid "Name that will be used together with From Address to send emails. Modification of this field is possible with the professional license."
+msgstr "Nombre que se usará junto con la dirección del remitente para enviar los correos electrónicos. La modificación de este campo es posible con la licencia profesional."
+
+#: class-ivole-settings-review-reminder.php:416
+msgid "From Name"
+msgstr "Nombre del remitente"
+
+#: ivole.php:98
+msgid "Error: please provide a valid email address!"
+msgstr "Error: ¡por favor proporciona una dirección de correo electrónico valido!"
+
+#: ivole.php:93 ivole.php:95
+msgid "Success: you have unsubscribed from emails related to reviews!"
+msgstr "Éxito: ¡Has cancelado la suscripción de los correos electrónicos relacionada con las valoraciones!"
+
+#: class-ivole-reviews.php:541 class-cr-ajax-reviews.php:269
+#: class-ivole-all-reviews.php:600
+msgid "See all %d review"
+msgid_plural "See all %d reviews"
+msgstr[0] "Ver toda la %d valoración"
+msgstr[1] "Ver todas las %d valoraciones"
+
+#: class-ivole-reviews.php:540 class-cr-ajax-reviews.php:268
+#: class-ivole-all-reviews.php:599
+msgid "Showing %1$d of %2$d review (%3$d star). "
+msgid_plural "Showing %1$d of %2$d reviews (%3$d star). "
+msgstr[0] "Mostrando %1$d of %2$d valoración(%3$d estrella)."
+msgstr[1] "Mostrando %1$d of %2$d valoraciones (%3$d estrella)."
+
+#: class-ivole-reviews.php:519 class-ivole-reviews.php:523
+#: class-ivole-all-reviews.php:577 class-ivole-all-reviews.php:581
+msgid "1 star"
+msgstr "1 estrella "
+
+#: class-ivole-reviews.php:508 class-ivole-reviews.php:512
+#: class-ivole-all-reviews.php:564 class-ivole-all-reviews.php:568
+msgid "2 star"
+msgstr "2 estrellas"
+
+#: class-ivole-reviews.php:497 class-ivole-reviews.php:501
+#: class-ivole-all-reviews.php:551 class-ivole-all-reviews.php:555
+msgid "3 star"
+msgstr "3 estrellas "
+
+#: class-ivole-reviews.php:486 class-ivole-reviews.php:490
+#: class-ivole-all-reviews.php:538 class-ivole-all-reviews.php:542
+msgid "4 star"
+msgstr "4 estrellas"
+
+#: class-ivole-reviews.php:475 class-ivole-reviews.php:479
+#: class-ivole-all-reviews.php:525 class-ivole-all-reviews.php:529
+msgid "5 star"
+msgstr "5 estrellas "
+
+#: class-ivole-reviews.php:402
+msgid "Add Review Error"
+msgstr "Error en añadir la valoración "
+
+#: class-ivole-reviews.php:402
+msgid "reCAPTCHA vertification failed and your review cannot be saved."
+msgstr "Falló la verificación del reCAPTCHA y no se pudo guardar tu valoración."
+
+#: class-ivole-reviews.php:187 class-ivole-reviews.php:222
+#: class-ivole-reviews.php:260 class-ivole-reviews.php:297
+#: class-ivole-reviews.php:1095 class-ivole-reviews.php:1161
+#: class-ivole-reviews.php:1186 class-ivole-reviews-list-table.php:772
+#: class-ivole-reviews-list-table.php:813 class-ivole-structured-data.php:48
+#: class-ivole-all-reviews.php:218 class-ivole-all-reviews.php:237
+msgid "Image #%1$d from "
+msgstr "Imagen #%1$d de"
+
+#: class-ivole-reviews.php:182 class-ivole-reviews.php:213
+#: class-ivole-reviews.php:254 class-ivole-reviews.php:287
+#: class-ivole-reviews-list-table.php:766
+#: class-ivole-reviews-list-table.php:803 class-ivole-all-reviews.php:213
+#: class-ivole-all-reviews.php:229
+msgid "Uploaded image(s):"
+msgstr "Imagen(es) subidas "
+
+#: class-ivole-email-coupon.php:218 class-ivole-email.php:373
+msgid "Jane Doe"
+msgstr "Jane Doe"
+
+#: class-ivole-email-coupon.php:216 class-ivole-email-coupon.php:237
+#: class-ivole-email.php:371 class-ivole-email.php:402
+msgid "Jane"
+msgstr "Jane "
+
+#: class-ivole-email-coupon.php:35
+msgid "Discount Coupon for You"
+msgstr "Cupón de descuento para ti"
+
+#: class-ivole-email-coupon.php:34
+msgid "Thank You for Leaving a Review"
+msgstr "Gracias por dejar una valoración"
+
+#: class-ivole-settings-review-extensions.php:37
+msgid "Review Extensions"
+msgstr "Extensiones de las valoraciones "
+
+#: class-ivole-settings-review-reminder.php:51 class-ivole-manual.php:156
+msgid "Review Reminder"
+msgstr "Recordatorio de valoración"
+
+#: class-ivole-admin.php:142
+msgid "<strong>Customer Reviews for WooCommerce</strong> plugin has been updated. This is a big update that makes submission of reviews easier and quicker for your customers. It means that you will receive more customer reviews but first we recommend you to verify <a href=\"%s\">plugin settings</a> by sending several test emails to make sure that everything works fine."
+msgstr "<strong>Valoraciones de los clientes para el plugin de WooCommerce</strong> han sido actualizadas. Esta es una gran actualización que hace entrega de valoraciones más fáciles y más rápidas para tus clientes. Significa que recibirás más valoraciones de losm clientes pero primero te recomendamos que verifiques los<a href=\"%s\">ajustes del plugin</a> enviando varios correos electrónicos de prueba para que te asegures que todo funciona bien."
+
+#: class-ivole-admin.php:130
+msgid "<strong>Customer Reviews for WooCommerce</strong> plugin has been activated. Please go to the plugin's <a href=\"%s\">settings</a> and configure this plugin to start receiving more authentic reviews!"
+msgstr "<strong>¡Las valoraciones del cliente para el plugin de WooCommerce</strong> se ha activado. Por favor ve a los ajustes de <a href=\"%s\">plugin</a> y configura este plugin para comenzar a recibir más valoraciones auténticas!"
+
+#: class-ivole-admin-menu-settings.php:242
+msgid "The date that the order was made."
+msgstr "La fecha en que fue hecho el pedido."
+
+#: class-ivole-admin-menu-settings.php:241
+msgid "The order number for the purchase."
+msgstr "El número de pedido para la compra."
+
+#: class-ivole-admin-menu-settings.php:236
+msgid "You can use the following variables in the email and the review form:"
+msgstr "Puedes usar las siguiente variables en el correo electrónico y el formulario de las valoraciones:"
+
+#: class-ivole-admin-menu-settings.php:205
+msgid "Select none"
+msgstr "Selecciona ninguno "
+
+#: class-ivole-admin-menu-settings.php:204
+msgid "Select all"
+msgstr "Selecciona todos "
+
+#: class-ivole-settings-review-reminder.php:607
+msgid "Text color for product names."
+msgstr "Color del texto para el nombre de los productos "
+
+#: class-ivole-settings-review-reminder.php:603
+msgid "Form Color 2"
+msgstr "Color del formulario 2"
+
+#: class-ivole-settings-review-reminder.php:409
+msgid "Emails will be sent from the email address specified in this field. Modification of this field is possible with the professional license."
+msgstr "Los correos electrónicos se enviarán desde la dirección de correo electrónico especificada en este campo. La modificación de este campo es posible con la licencia profesional. "
+
+#: class-ivole-settings-review-reminder.php:407
+msgid "From Address"
+msgstr "Dirección del remitente"
+
+#: class-ivole-settings-review-reminder.php:400
+msgid "Specify your shop name that will be used in emails and review forms generated by this plugin."
+msgstr "Especifica el nombre de tu tienda que se usará en los correos electrónicos y formularios de las valoraciones generadas por este plugin. "
+
+#: class-ivole-settings-review-reminder.php:398
+msgid "Shop Name"
+msgstr "Nombre de la tienda"
+
+#: class-ivole-settings-review-reminder.php:385
+msgid "Enable manual moderation of reviews submitted by your verified customers. This setting applies only to reviews submitted in response to reminders sent by this plugin."
+msgstr "Activa la moderación manual de las valoraciones enviadas por tus clientes verificados. Este ajuste aplica solo para las valoraciones enviadas en respuesta a los recordatorios enviados por este plugin. "
+
+#: class-ivole-settings-review-reminder.php:384
+msgid "Moderation of Reviews"
+msgstr " Moderación de las valoraciones "
+
+#: class-ivole-settings-review-reminder.php:346
+msgid "Enable Manual Reminders"
+msgstr "Activa los recordatorios manuales "
+
+#: class-ivole-settings-review-reminder.php:295
+msgid "If reminders are enabled only for specific categories of products, this field enables you to choose these categories."
+msgstr "Si los recordatorios se activan solo para categorías específicas de los productos, este campo te activa para seleccionar estas categorías. "
+
+#: class-ivole-settings-review-reminder.php:293
+msgid "Categories"
+msgstr "Categorías"
+
+#: class-ivole-settings-review-reminder.php:289
+msgid "Specific Categories"
+msgstr "Categorías específicas"
+
+#: class-ivole-settings-review-reminder.php:288
+msgid "All Categories"
+msgstr "Todas las categorías "
+
+#: class-ivole-settings-review-reminder.php:281
+msgid "Define if reminders will be send for all or only specific categories of products."
+msgstr "Defina si los recordatorios se enviaran para todas o solo las categorías específicas de los productos. "
+
+#: class-ivole-settings-review-reminder.php:279
+msgid "Enable for"
+msgstr "Activar para "
+
+#: class-ivole-settings-review-reminder.php:260
+msgid "Sending Delay (Days)"
+msgstr "Enviando retrasos (días)"
+
+#: class-ivole-settings-review-reminder.php:253
+msgid "Enable Automatic Reminders"
+msgstr "Activa los recordatorios automáticos "
+
+#: class-ivole-settings-review-reminder.php:247
+msgid "Reminders for Customer Reviews"
+msgstr "Recordatorios para las valoraciones de los clientes"
+
+#: class-ivole-settings-review-reminder.php:217
+msgid "qTranslate-X Automatic"
+msgstr "qTranslate-X Automatic"
+
+#: class-ivole-settings-review-reminder.php:216
+msgid "It looks like you have qTranslate-X plugin activated. You might want to choose \"qTranslate-X Automatic\" option to enable automatic selection of language."
+msgstr "Parece que tienes activado el plugin de qTranslate-X. Puede que quieras escoger la opción \"qTranslate-X Automatic\" para activar la selección automática del idioma."
+
+#: class-ivole-settings-review-reminder.php:207
+msgid "Swedish"
+msgstr "Sueco"
+
+#: class-ivole-settings-review-reminder.php:206
+msgid "Spanish"
+msgstr "Español"
+
+#: class-ivole-settings-review-reminder.php:205
+msgid "Slovenian"
+msgstr "Esloveno"
+
+#: class-ivole-settings-license.php:76 class-ivole-settings-license.php:90
+msgid "License Key"
+msgstr "Clave de licencia"
+
+#: class-ivole-settings-license.php:84
+msgid "Information about license status."
+msgstr "Información acerca de los estados de las licencias."
+
+#: class-ivole-settings-license.php:82
+msgid "License Status"
+msgstr "Estado de la licencia"
+
+#: class-ivole-settings-review-extensions.php:206
+msgid "Enable display of a histogram table with a summary of reviews on a product page."
+msgstr "Activa la muestra de un histograma con un resumen de valoraciones en una página de productos."
+
+#: class-ivole-settings-review-extensions.php:205
+msgid "Reviews Summary Bar"
+msgstr "Barra de resumen de las valoraciones"
+
+#: class-ivole-settings-review-extensions.php:139
+msgid "Reviews Shortcodes"
+msgstr "Shortcodes de las valoraciones"
+
+#: class-ivole-settings-review-extensions.php:131
+msgid "reCAPTCHA V2 Secret Key"
+msgstr "Clave secreta del reCApTCHA"
+
+#: class-ivole-settings-review-extensions.php:133
+msgid "If you want to use reCAPTCHA V2, insert here Secret Key that you will receive after registration at reCAPTCHA website."
+msgstr "Si quieres usar reCAPTCHA V2, inserta aquí la clave secreta que recibirás después del registro en la web del reCAPTCHA. "
+
+#: class-ivole-settings-review-extensions.php:125
+msgid "If you want to use reCAPTCHA V2, insert here Site Key that you will receive after registration at reCAPTCHA website."
+msgstr "Si quieres usar reCAPTCHA V2, inserta aquí la clave del sitio que recibirás después del registro en la web del reCAPTCHA. "
+
+#: class-ivole-settings-review-extensions.php:123
+msgid "reCAPTCHA V2 Site Key"
+msgstr "Clave del sitio reCAPTCHA V2"
+
+#: class-ivole-settings-review-extensions.php:117
+msgid "Enable reCAPTCHA to eliminate fake reviews. You must enter Site Key and Secret Key in the fields below if you want to use reCAPTCHA. You will receive Site Key and Secret Key after registration at reCAPTCHA website."
+msgstr "Activa el reCAPTCHA para eliminar las valoraciones falsas. Debes introducir la clave del sitio y la clave secreta en los campos a continuación si quieres usar el reCAPTCHA. Recibirás la clave del sitio y la clave secreta después del registro en la web del reCAPTCHA."
+
+#: class-ivole-settings-review-extensions.php:116
+msgid "reCAPTCHA V2 for Reviews"
+msgstr "reCAPTCHA V2 para las valoraciones "
+
+#: class-ivole-settings-review-extensions.php:80
+msgid "Attach Images"
+msgstr "Adjunta imágenes"
+
+#: class-ivole-settings-review-extensions.php:74
+msgid "Extensions for Customer Reviews"
+msgstr "Extensiones para las valoraciones de los clientes"
+
+#: class-cr-product-feed-reviews.php:41 class-ivole-admin-menu-settings.php:142
+#: class-ivole-admin-menu-reviews.php:40 class-ivole-admin-menu-reviews.php:41
+#: templates/ivole-single-product-reviews.php:37
+#: templates/cr-ajax-product-reviews.php:46
+#: class-cr-admin-menu-product-feed.php:127
+#: class-ivole-settings-trust-badges.php:316
+msgid "Reviews"
+msgstr "Valoraciones"
+
+#: class-ivole-settings-review-reminder.php:484
+#: class-ivole-settings-review-discount.php:298
+msgid "Heading of the email that will be sent to customers."
+msgstr "Cabecera del correo electrónico que se enviarán a los clientes. "
+
+#: class-ivole-settings-review-reminder.php:482
+#: class-ivole-settings-review-discount.php:296
+msgid "Email Heading"
+msgstr "Cabecera del correo electrónico"
+
+#: class-ivole-settings-review-reminder.php:475
+#: class-ivole-settings-review-discount.php:289
+msgid "Subject of the email that will be sent to customers."
+msgstr "Asunto del correo electrónico que se enviará a los clientes."
+
+#: class-ivole-settings-review-reminder.php:473
+#: class-ivole-settings-review-discount.php:287
+msgid "Email Subject"
+msgstr "Asunto del correo electrónico"
+
+#: class-ivole-settings-review-reminder.php:467
+#: class-ivole-settings-review-discount.php:281
+msgid "Email Template"
+msgstr "Plantilla del correo electrónico"
+
+#: class-ivole-settings-review-discount.php:257
+msgid "How many times this coupon can be used before it is void. Set it to 0 for unlimited usage."
+msgstr "¿Cuántas veces se puede usar este cupón antes de que sea nulo? Establécelo a 0 para un uso ilimitado."
+
+#: class-ivole-settings-review-discount.php:256
+msgid "Usage limit"
+msgstr "Límite de uso"
+
+#: class-ivole-settings-review-discount.php:246
+msgid "Exclude categories"
+msgstr "Excluir las categorías"
+
+#: class-ivole-settings-review-discount.php:248
+msgid "Product must not be in this category for the coupon to remain valid or, for \"Product Discounts\", products in these categories will not be discounted."
+msgstr "El producto no debe estar en esta categoría para que el cupón permanezca valido o, para los 'descuentos de productos', los productos en esta categoría no serán descontados. "
+
+#. Description of the plugin
+msgid "Customer Reviews for WooCommerce plugin helps you get more customer reviews for your shop by sending automated reminders and coupons."
+msgstr "Las valoraciones de los clientes para el plugin de WooCommerce te ayuda a obtener más valoraciones de los clientes para tu tienda enviando recordatorios automáticos y cupones. "
+
+#: templates/ivole-single-product-reviews.php:151
+#: templates/cr-ajax-product-reviews.php:167
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr "Solo los clientes conectados que han comprado este producto pueden dejar una valoración."
+
+#: templates/ivole-single-product-reviews.php:144
+#: templates/cr-ajax-product-reviews.php:160
+msgid "Your review"
+msgstr "Tu valoración"
+
+#: templates/ivole-single-product-reviews.php:140
+#: templates/cr-ajax-product-reviews.php:156
+msgid "Very poor"
+msgstr "Muy pobre"
+
+#: templates/ivole-single-product-reviews.php:139
+#: templates/cr-ajax-product-reviews.php:155
+msgid "Not that bad"
+msgstr "No está tan mal"
+
+#: templates/ivole-single-product-reviews.php:138
+#: templates/cr-ajax-product-reviews.php:154
+msgid "Average"
+msgstr "Promedio"
+
+#: templates/ivole-single-product-reviews.php:137
+#: templates/cr-ajax-product-reviews.php:153
+msgid "Good"
+msgstr "Bueno"
+
+#: templates/ivole-single-product-reviews.php:136
+#: templates/cr-ajax-product-reviews.php:152
+msgid "Perfect"
+msgstr "Perfecto"
+
+#: ivole.php:108
+msgid "Email Address:"
+msgstr "Dirección de correo electrónico:"
+
+#: class-ivole-settings-review-discount.php:675
+msgid "Amount of the coupon (e.g., $10 or 11% depending on type of the coupon)."
+msgstr "Cantidad del cupón (ej. $10 o 11% dependiendo del tipo del cupón)."
+
+#: class-ivole-settings-review-discount.php:674
+msgid "The code of coupon for discount."
+msgstr "El código del cupón para el descuento."
+
+#: class-ivole-admin-menu-settings.php:240
+#: class-ivole-settings-review-discount.php:673
+msgid "The full name of the customer who purchased from your store."
+msgstr "El nombre completo del cliente que compró en tu tienda."
+
+#: class-ivole-admin-menu-settings.php:238
+#: class-ivole-settings-review-discount.php:671
+msgid "The first name of the customer who purchased from your store."
+msgstr "El primer nombre del cliente que compró en tu tienda."
+
+#: class-ivole-admin-menu-settings.php:237
+#: class-ivole-settings-review-discount.php:670
+msgid "The title of your WordPress website."
+msgstr "El título de tu web de WordPress."
+
+#: class-ivole-settings-review-discount.php:669
+msgid "You can use the following variables in the email:"
+msgstr "Puedes usar las siguientes variables en el correo electrónico: "
+
+#: class-ivole-admin-menu-settings.php:235
+#: class-ivole-settings-review-discount.php:668
+msgid "Variables"
+msgstr "Variables"
+
+#: class-ivole-settings-review-reminder.php:621
+#: class-ivole-settings-review-discount.php:330
+msgid "Send a test email to this address. You must save changes before sending a test email."
+msgstr "Envía un correo electrónico de prueba a esta dirección. Debes guardar los cambios antes de enviar un correo electrónico de prueba. "
+
+#: class-ivole-settings-review-reminder.php:619
+#: class-ivole-settings-review-discount.php:328
+msgid "Send Test"
+msgstr "Enviar prueba"
+
+#: class-ivole-settings-review-reminder.php:520
+#: class-ivole-settings-review-discount.php:324
+msgid "Text color for heading of the email and review button."
+msgstr "Color del texto para la cabecera del correo electrónico y el botón de reseña."
+
+#: class-ivole-settings-review-reminder.php:516
+#: class-ivole-settings-review-discount.php:320
+msgid "Email Color 2"
+msgstr "Color del correo electrónico 2"
+
+#: class-ivole-settings-review-reminder.php:512
+#: class-ivole-settings-review-discount.php:316
+msgid "Background color for heading of the email and review button."
+msgstr "Color del fondo para la cabecera del correo electrónico y el botón de reseña."
+
+#: class-ivole-settings-review-reminder.php:508
+#: class-ivole-settings-review-discount.php:312
+msgid "Email Color 1"
+msgstr "Color del correo electrónico 1"
+
+#: class-ivole-settings-review-reminder.php:493
+#: class-ivole-settings-review-discount.php:307
+msgid "Body of the email that will be sent to customers."
+msgstr "Cuerpo del correo electrónico que se enviará a los clientes."
+
+#: class-ivole-settings-review-reminder.php:491
+#: class-ivole-settings-review-discount.php:305
+msgid "Email Body"
+msgstr "Cuerpo del correo electrónico"
+
+#: class-ivole-settings-review-discount.php:195
+msgid "No minimum"
+msgstr "No hay mínimo"
+
+#: class-ivole-settings-review-discount.php:194
+msgid "Minimum spend"
+msgstr "Gastos mínimos"
+
+#: class-ivole-settings-review-discount.php:182
+msgid "Number of days during which the coupon will be valid from the moment of submission of a review or set to 0 for unlimited validity."
+msgstr "Número de días durante los cuales el cupón será valido desde el momento del envío de una reseña o establece a 0 para una validez ilimitada."
+
+#: class-ivole-settings-review-discount.php:180
+msgid "Validity"
+msgstr "Validez"
+
+#: class-ivole-settings-review-discount.php:174
+msgid "Check this box if the coupon grants free shipping. A <a href=\"%s\" target=\"_blank\">free shipping method</a> must be enabled in your shipping zone and be set to require \"a valid free shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr "Marca este cuadro si el cupón autoriza el envío gratis. Un <a href=\"%s\" target=\"_blank\"> método de envío gratis </a> debe activarse en tu zona de envío establecerse para requerir \"un cupón de envío gratis valido\" (Observa el ajuste \"El envío gratis requiere\")."
+
+#: class-ivole-settings-review-discount.php:173
+msgid "Allow free shipping"
+msgstr "Permitir el envío gratis"
+
+#: class-ivole-settings-review-discount.php:167
+msgid "Value of the coupon."
+msgstr "Valor del cupón. "
+
+#: class-ivole-settings-review-discount.php:165
+msgid "Coupon amount"
+msgstr "Cantidad del cupón"
+
+#: class-ivole-settings-review-discount.php:159
+msgid "Discount type"
+msgstr "Tipo de descuento"
+
+#: class-ivole-settings-review-discount.php:150
+msgid "Generation of Individual Coupons"
+msgstr "Generación de cupones individuales"
+
+#: class-ivole-settings-review-discount.php:142
+msgid "This coupon code will be sent to customers who provide reviews."
+msgstr "Este código de cupón se enviará a los clientes que proporciones valoraciones."
+
+#: class-ivole-settings-review-discount.php:134
+msgid "Choose one the existing coupons to be sent to customers who provided reviews."
+msgstr "Escoge uno de los cupones existentes para que se envíe a los clientes que proporcionaron valoraciones. "
+
+#: class-ivole-settings-review-discount.php:132
+msgid "Existing Coupon to Use"
+msgstr "Cupón existente a usar"
+
+#: class-ivole-settings-review-discount.php:121
+msgid "Add a Reply-To address for emails with discount coupons. If customers decide to reply to automatic emails, their replies will be sent to this address."
+msgstr "Añade una dirección para responder par a los correos electrónicos con cupones de descuentos. Si los clientes deciden responder a los correos electrónicos automáticos, sus respuestas se enviarán a esta dirección."
+
+#: class-ivole-settings-review-reminder.php:203
+msgid "Serbian"
+msgstr "Serbio"
+
+#: class-ivole-settings-review-reminder.php:201
+msgid "Romanian"
+msgstr "Rumano"
+
+#: class-ivole-settings-review-reminder.php:199
+msgid "Portuguese"
+msgstr "Portugués"
+
+#: class-ivole-settings-review-reminder.php:191
+msgid "Italian"
+msgstr "Italiano"
+
+#: class-ivole-settings-review-reminder.php:190
+msgid "Indonesian"
+msgstr "Indonesio"
+
+#: class-ivole-settings-review-reminder.php:188
+msgid "Hungarian"
+msgstr "Húngaro"
+
+#: class-ivole-settings-review-reminder.php:184
+msgid "German"
+msgstr "Alemán"
+
+#: class-ivole-settings-review-reminder.php:182
+msgid "French"
+msgstr "Francés"
+
+#: class-ivole-settings-review-reminder.php:181
+msgid "Finnish"
+msgstr "Finlandés"
+
+#: class-ivole-settings-review-reminder.php:178
+msgid "English"
+msgstr "Inglés"
+
+#: class-ivole-settings-review-reminder.php:177
+msgid "Dutch"
+msgstr "Holandés"
+
+#: class-ivole-settings-review-reminder.php:176
+msgid "Danish"
+msgstr "Danés"
+
+#: class-ivole-settings-review-reminder.php:175
+msgid "Czech"
+msgstr "Checo"
+
+#: class-ivole-settings-license.php:92
+msgid "Enter your license key here."
+msgstr "Introduce tu clave de licencia aquí."
+
+#: class-ivole-settings-review-reminder.php:425
+#: class-ivole-settings-review-discount.php:119
+msgid "Reply-To Address"
+msgstr "Dirección para responder"
+
+#: class-ivole-settings-review-discount.php:105
+msgid "Generate a Unique Coupon"
+msgstr "Generar un cupón único"
+
+#: class-ivole-settings-review-discount.php:104
+#: class-ivole-settings-review-discount.php:140
+msgid "Existing Coupon"
+msgstr "Cupón existente"
+
+#: class-ivole-settings-review-discount.php:96
+msgid "Coupon to Use"
+msgstr "Cupón a usar"
+
+#: class-ivole-settings-review-discount.php:90
+msgid "Enable generation of discount coupons for customers who provide reviews."
+msgstr "Activa la generación de cupones de descuentos para los clientes que proporciona valoraciones."
+
+#: class-ivole-settings-review-discount.php:89
+msgid "Enable Review for Discount"
+msgstr "Activar la valoración para descuento"
+
+#: class-ivole-settings-review-discount.php:57
+#: class-ivole-settings-review-discount.php:83
+msgid "Review for Discount"
+msgstr "Valoración para descuento"
+
+#: class-ivole-settings-review-discount.php:410
+msgid "Please select an existing coupon!"
+msgstr "¡Por favor selecciona un cupón existente!"
+
+#: class-ivole-settings-review-discount.php:366
+msgid "Discounts for customers who provide reviews are enabled. Don’t forget to mention it in this email to increase the number of reviews.</span>"
+msgstr "Los descuentos para los clientes que proporcionan las valoraciones están activados. No olvides mencionarlo en este correo electrónico para aumentar el número de valoraciones.</span> "
+
+#: class-ivole-settings-review-discount.php:239
+msgid "A product must be in this category for the coupon to remain valid or, for \"Product Discounts\", products in these categories will be discounted."
+msgstr "Un producto debe estar en esta categoría para que el cupón permanezca valido, o para los 'descuentos de productos'. los productos en estas categorías serán descontados.  "
+
+#: class-ivole-settings-review-discount.php:237
+msgid "Product categories"
+msgstr "Categorías de porductos"
+
+#: class-ivole-settings-review-discount.php:232
+msgid "Products which must not be in the cart to use this coupon or, for \"Product Discounts\", which products are not discounted."
+msgstr "Los productos que no deben estar en el carrito para usar este cupón o, para 'descuentos de los productos', productos que no se descuentan."
+
+#: class-ivole-settings-review-discount.php:231
+msgid "Exclude products"
+msgstr "Excluir productos"
+
+#: class-ivole-settings-review-discount.php:226
+#: class-ivole-settings-review-discount.php:233
+msgid "Search for a product&hellip;"
+msgstr "Buscar un producto&hellip;"
+
+#: class-ivole-settings-review-discount.php:225
+msgid "Products which need to be in the cart to use this coupon or, for \"Product Discounts\", which products are discounted."
+msgstr "Los productos que necesitan estar en el carrito para usar este cupón o, para 'descuentos de productos', productos que son descontados. "
+
+#: class-ivole-settings-review-discount.php:224 js/blocks.js:373
+#: js/blocks.js:673 js/blocks.js:1076
+msgid "Products"
+msgstr "Productos"
+
+#: class-ivole-settings-review-discount.php:211
+msgid "Check this box if the coupon cannot be used in conjunction with other coupons."
+msgstr "Marca esta casilla si el cupón no se puede usar en conjunto con otros cupones. "
+
+#: class-ivole-settings-review-discount.php:210
+msgid "Individual use only"
+msgstr "Solo para uso individual"
+
+#: class-ivole-settings-review-discount.php:203
+msgid "No maximum"
+msgstr "No hay máximo"
+
+#: class-ivole-settings-review-discount.php:202
+msgid "Maximum spend"
+msgstr "Gastos máximos"
+
+#: class-ivole-settings-review-discount.php:196
+msgid "This field allows you to set the minimum spend (subtotal, including taxes) allowed to use the coupon."
+msgstr "Este campo te permite establecer el gasto mínimo (subtotal, incluyendo los impuestos) permitidos para usar el cupón. "
+
+#: class-ivole-settings-review-discount.php:204
+msgid "This field allows you to set the maximum spend (subtotal, including taxes) allowed when using the coupon."
+msgstr "Este campo te permite establecer el gasto máximo (subtotal, incluyendo los impuestos) permitidos cuando se use el cupón. "
+
+#: class-ivole-license.php:20
+msgid "No license key entered"
+msgstr "No se introdujo la clave de licencia"
+
+#: class-ivole-settings-review-discount.php:152
+msgid "Settings for automatic generation of unique coupons for each customer and order. When a customer submits a review, a new, unique discount code will be generated according to these settings and sent to the customer."
+msgstr "Los ajustes para la generación automática de cupones individuales para cada cliente y pedido. Cuando un cliente envía una valoración,  se generará un nuevo código de descuento único para estos ajustes y se enviarán al cliente."
+
+#: ivole.php:100
+msgid "Go to home page"
+msgstr "Ir a la página de inicio"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/customer-reviews-woocommerce/"
+msgstr "https://es.wordpress.org/plugins/customer-reviews-woocommerce/"
+
+#. Plugin Name of the plugin
+msgid "Customer Reviews for WooCommerce"
+msgstr "Customer Reviews for WooCommerce"
+
+#: class-ivole-settings-review-discount.php:110
+msgid "BCC Address"
+msgstr "Dirección CCO"
+
+#: class-ivole-settings-review-discount.php:218
+msgid "Check this box if the coupon should not apply to items on sale. Per-item coupons will only work if the item is not on sale. Per-cart coupons will only work if there are items in the cart that are not on sale."
+msgstr "Comprueba este cuadro si el cupón no debería aplicar a los artículos en oferta. Los cupones por artículos solo funcionarán si el artículo no está en oferta. Los cupones por carritos solo funcionarán si hay artículos en el carrito que no están en oferta. "
+
+#: class-ivole-settings-review-discount.php:217
+msgid "Exclude sale items"
+msgstr "Excluir los artículos en oferta."
+
+#: class-ivole-settings-review-discount.php:112
+msgid "Add a BCC recipient for emails with discount coupon. It can be useful to verify that emails are being sent properly."
+msgstr "Añade un destinatario CCO para los correos electrónicos con cupón de descuento. Puede que sea útil para verificar que los correos electrónicos se están enviando correctamente."

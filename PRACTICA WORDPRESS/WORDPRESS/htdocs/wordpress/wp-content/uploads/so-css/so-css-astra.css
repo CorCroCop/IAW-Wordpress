@@ -1,0 +1,37 @@
+.sidebar-main {
+  text-align: center;
+  background-color: #ffffff;
+  opacity: 1;
+  border-width: 40px;
+  font-style: italic;
+  font-weight: normal;
+  border-top-style: hidden;
+}
+
+#meta-3.widget.widget_meta {
+  border-top-width: 5px;
+  border-top-style: solid;
+  border-top-color: #0044ff;
+  padding: 16px;
+  margin: 0px;
+}
+
+.woocommerce h2 {
+  border-top-width: 5px;
+  border-top-style: solid;
+  border-top-color: #0044ff;
+  padding: 0px;
+  margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+
+.widget-title {
+  padding-top: 21px;
+  border-width: 0px;
+  border-style: solid;
+  border-color: #0044ff;
+  border-top-width: 5px;
+  border-top-style: hidden;
+  border-top-color: #0044ff;
+}
